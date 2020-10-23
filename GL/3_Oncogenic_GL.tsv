@@ -1,0 +1,30 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	ESC_V6.5_UP_EARLY.V1_DN	E2F1_UP.V1_UP	PRC2_EZH2_UP.V1_DN	RB_P107_DN.V1_UP	CRX_DN.V1_DN	ESC_V6.5_UP_LATE.V1_DN	E2F1_UP.V1_DN	RPS14_DN.V1_DN	EGFR_UP.V1_UP	RAF_UP.V1_UP	CAMP_UP.V1_UP
+5118	PCOLCE	procollagen C-endopeptidase enhancer [Source:HGNC Symbol;Acc:HGNC:8738]	ESC_V6.5_UP_EARLY.V1_DN			RB_P107_DN.V1_UP	CRX_DN.V1_DN	ESC_V6.5_UP_LATE.V1_DN		RPS14_DN.V1_DN			
+301	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	ESC_V6.5_UP_EARLY.V1_DN					ESC_V6.5_UP_LATE.V1_DN	E2F1_UP.V1_DN				
+824	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	ESC_V6.5_UP_EARLY.V1_DN						E2F1_UP.V1_DN		EGFR_UP.V1_UP	RAF_UP.V1_UP	
+23397	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]		E2F1_UP.V1_UP	PRC2_EZH2_UP.V1_DN	RB_P107_DN.V1_UP				RPS14_DN.V1_DN			
+4664	NAB1	NGFI-A binding protein 1 [Source:HGNC Symbol;Acc:HGNC:7626]		E2F1_UP.V1_UP			CRX_DN.V1_DN						
+6878	TAF6	TATA-box binding protein associated factor 6 [Source:HGNC Symbol;Acc:HGNC:11540]		E2F1_UP.V1_UP									
+5106	PCK2	phosphoenolpyruvate carboxykinase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:8725]			PRC2_EZH2_UP.V1_DN								
+3070	HELLS	helicase, lymphoid specific [Source:HGNC Symbol;Acc:HGNC:4861]			PRC2_EZH2_UP.V1_DN								
+6416	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]									EGFR_UP.V1_UP		
+22848	AAK1	AP2 associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:19679]										RAF_UP.V1_UP	
+4191	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]											CAMP_UP.V1_UP
+6396	SEC13	SEC13 homolog, nuclear pore and COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10697]											CAMP_UP.V1_UP
+51601	LIPT1	lipoyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:29569]											
+9770	RASSF2	Ras association domain family member 2 [Source:HGNC Symbol;Acc:HGNC:9883]											
+4839	NOP2	NOP2 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:7867]											
+6829	SUPT5H	SPT5 homolog, DSIF elongation factor subunit [Source:HGNC Symbol;Acc:HGNC:11469]											
+23770	FKBP8	FKBP prolyl isomerase 8 [Source:HGNC Symbol;Acc:HGNC:3724]											
+6282	S100A11	S100 calcium binding protein A11 [Source:HGNC Symbol;Acc:HGNC:10488]											
+9183	ZW10	zw10 kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13194]											
+113130	CDCA5	cell division cycle associated 5 [Source:HGNC Symbol;Acc:HGNC:14626]											
+1939	EIF2D	eukaryotic translation initiation factor 2D [Source:HGNC Symbol;Acc:HGNC:6583]											
+2181	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]											
+389362	PSMG4	proteasome assembly chaperone 4 [Source:HGNC Symbol;Acc:HGNC:21108]											
+56683	CFAP298	cilia and flagella associated protein 298 [Source:HGNC Symbol;Acc:HGNC:1301]											
+57446	NDRG3	NDRG family member 3 [Source:HGNC Symbol;Acc:HGNC:14462]											
+6651	SON	SON DNA and RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11183]											
+7264	TSTA3	tissue specific transplantation antigen P35B [Source:HGNC Symbol;Acc:HGNC:12390]											
+7874	USP7	ubiquitin specific peptidase 7 [Source:HGNC Symbol;Acc:HGNC:12630]											

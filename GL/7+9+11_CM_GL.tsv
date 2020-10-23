@@ -1,0 +1,90 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	MODULE_3	MODULE_419	MODULE_321	MODULE_524	MODULE_98	MODULE_352	MODULE_18	MODULE_306	MODULE_52	MODULE_198	MODULE_1	MODULE_252	MODULE_32	MODULE_2	MODULE_8	MODULE_5	MODULE_110	MODULE_35	MODULE_543	MODULE_151	MODULE_126	MODULE_136	MODULE_244	MODULE_114	MODULE_15	MODULE_17	MODULE_202	MODULE_29	MODULE_303	MODULE_38	MODULE_179	MODULE_37	MODULE_158	MODULE_125	MODULE_72	MODULE_16	MODULE_61	MODULE_83	MODULE_69	MODULE_277	MODULE_164	MODULE_12	MODULE_331	MODULE_532	MODULE_6	MODULE_47	MODULE_459	MODULE_378	MODULE_317	MODULE_123	MODULE_255	MODULE_97	MODULE_182	MODULE_84	MODULE_324	MODULE_188	MODULE_45	MODULE_206	MODULE_93	MODULE_118	MODULE_54
+2316	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]	MODULE_3	MODULE_419		MODULE_524			MODULE_18		MODULE_52		MODULE_1			MODULE_2		MODULE_5					MODULE_126				MODULE_15		MODULE_202			MODULE_38					MODULE_72	MODULE_16									MODULE_6												MODULE_45			MODULE_118	
+2314	FLII	FLII actin remodeling protein [Source:HGNC Symbol;Acc:HGNC:3750]	MODULE_3	MODULE_419		MODULE_524																																										MODULE_47															
+445815	PALM2AKAP2	PALM2 and AKAP2 fusion [Source:HGNC Symbol;Acc:HGNC:33529]	MODULE_3		MODULE_321													MODULE_5																																								MODULE_188					
+1017	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]	MODULE_3				MODULE_98		MODULE_18		MODULE_52	MODULE_198					MODULE_8								MODULE_244		MODULE_15	MODULE_17			MODULE_303	MODULE_38			MODULE_158	MODULE_125		MODULE_16																									
+301	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]	MODULE_3						MODULE_18		MODULE_52		MODULE_1			MODULE_2		MODULE_5			MODULE_543						MODULE_15	MODULE_17				MODULE_38	MODULE_179					MODULE_16					MODULE_164	MODULE_12		MODULE_532	MODULE_6		MODULE_459	MODULE_378	MODULE_317		MODULE_255			MODULE_84	MODULE_324		MODULE_45			MODULE_118	
+302	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	MODULE_3						MODULE_18		MODULE_52							MODULE_5			MODULE_543																						MODULE_164														MODULE_324						
+7411	VBP1	VHL binding protein 1 [Source:HGNC Symbol;Acc:HGNC:12662]	MODULE_3						MODULE_18								MODULE_8					MODULE_151				MODULE_114	MODULE_15	MODULE_17										MODULE_16																									
+55651	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]	MODULE_3						MODULE_18								MODULE_8											MODULE_17										MODULE_16																									
+9590	AKAP12	A-kinase anchoring protein 12 [Source:HGNC Symbol;Acc:HGNC:370]	MODULE_3								MODULE_52		MODULE_1			MODULE_2																					MODULE_72																									MODULE_118	
+10989	IMMT	inner membrane mitochondrial protein [Source:HGNC Symbol;Acc:HGNC:6047]	MODULE_3														MODULE_8							MODULE_136				MODULE_17					MODULE_179	MODULE_37			MODULE_72				MODULE_69																						
+23191	CYFIP1	cytoplasmic FMR1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:13759]	MODULE_3																																																												
+4627	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]		MODULE_419	MODULE_321	MODULE_524																																																									
+4643	MYO1E	myosin IE [Source:HGNC Symbol;Acc:HGNC:7599]		MODULE_419	MODULE_321																		MODULE_126		MODULE_244																																						
+2317	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]		MODULE_419		MODULE_524																							MODULE_202																																		
+3939	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]			MODULE_321					MODULE_306												MODULE_151				MODULE_114														MODULE_83																					MODULE_93		
+10970	CKAP4	cytoskeleton associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]			MODULE_321																																											MODULE_47															
+23603	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]			MODULE_321																																																										
+7175	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]					MODULE_98	MODULE_352																																																							
+3978	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]					MODULE_98					MODULE_198		MODULE_252					MODULE_110	MODULE_35					MODULE_244										MODULE_158	MODULE_125																											
+8899	PRPF4B	pre-mRNA processing factor 4B [Source:HGNC Symbol;Acc:HGNC:17346]					MODULE_98					MODULE_198		MODULE_252											MODULE_244						MODULE_303											MODULE_277																					
+7247	TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]					MODULE_98					MODULE_198		MODULE_252																																																	MODULE_54
+4678	NASP	nuclear autoantigenic sperm protein [Source:HGNC Symbol;Acc:HGNC:7644]					MODULE_98					MODULE_198		MODULE_252																																																	
+2091	FBL	fibrillarin [Source:HGNC Symbol;Acc:HGNC:3599]					MODULE_98								MODULE_32																																																
+6294	SAFB	scaffold attachment factor B [Source:HGNC Symbol;Acc:HGNC:10520]					MODULE_98																																																								
+7112	TMPO	thymopoietin [Source:HGNC Symbol;Acc:HGNC:11875]						MODULE_352				MODULE_198		MODULE_252	MODULE_32																																																
+5903	RANBP2	RAN binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9848]						MODULE_352																																																							
+5118	PCOLCE	procollagen C-endopeptidase enhancer [Source:HGNC Symbol;Acc:HGNC:8738]							MODULE_18		MODULE_52		MODULE_1			MODULE_2		MODULE_5									MODULE_15					MODULE_38					MODULE_72							MODULE_12			MODULE_6	MODULE_47								MODULE_84			MODULE_45				
+5339	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]							MODULE_18		MODULE_52		MODULE_1			MODULE_2		MODULE_5														MODULE_38												MODULE_12			MODULE_6									MODULE_84							
+7167	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]								MODULE_306												MODULE_151				MODULE_114																																					MODULE_54
+2597	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]								MODULE_306																																																		MODULE_206			
+4000	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]											MODULE_1																																																		
+6224	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]													MODULE_32							MODULE_151				MODULE_114				MODULE_29										MODULE_83																							
+1975	EIF4B	eukaryotic translation initiation factor 4B [Source:HGNC Symbol;Acc:HGNC:3285]													MODULE_32							MODULE_151				MODULE_114														MODULE_83					MODULE_331																		
+6202	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]													MODULE_32															MODULE_29										MODULE_83																							
+2037	EPB41L2	erythrocyte membrane protein band 4.1 like 2 [Source:HGNC Symbol;Acc:HGNC:3379]														MODULE_2																												MODULE_12																			
+8091	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]															MODULE_8																																			MODULE_123											
+6309	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]															MODULE_8																																												MODULE_93		
+2058	EPRS1	glutamyl-prolyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:3418]																	MODULE_110	MODULE_35																																											
+3068	HDGF	heparin binding growth factor [Source:HGNC Symbol;Acc:HGNC:4856]																					MODULE_126																MODULE_61																								
+10376	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]																					MODULE_126																MODULE_61																								
+5074	PAWR	pro-apoptotic WT1 regulator [Source:HGNC Symbol;Acc:HGNC:8614]																						MODULE_136									MODULE_179	MODULE_37							MODULE_69					MODULE_532			MODULE_459	MODULE_378	MODULE_317	MODULE_123	MODULE_255										
+5834	PYGB	glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723]																						MODULE_136									MODULE_179	MODULE_37							MODULE_69					MODULE_532			MODULE_459	MODULE_378	MODULE_317		MODULE_255										
+22803	XRN2	5'-3' exoribonuclease 2 [Source:HGNC Symbol;Acc:HGNC:12836]																						MODULE_136									MODULE_179	MODULE_37							MODULE_69					MODULE_532			MODULE_459	MODULE_378	MODULE_317		MODULE_255										
+4134	MAP4	microtubule associated protein 4 [Source:HGNC Symbol;Acc:HGNC:6862]																						MODULE_136										MODULE_37							MODULE_69																						
+10528	NOP56	NOP56 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:15911]																						MODULE_136																																							
+57187	THOC2	THO complex 2 [Source:HGNC Symbol;Acc:HGNC:19073]																																								MODULE_277			MODULE_331																		
+9208	LRRFIP1	LRR binding FLII interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6702]																																																		MODULE_123											
+4976	OPA1	OPA1 mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]																																																				MODULE_97	MODULE_182								
+1399	CRKL	CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]																																																				MODULE_97	MODULE_182								
+2634	GBP2	guanylate binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4183]																																																						MODULE_84			MODULE_45				
+23347	SMCHD1	structural maintenance of chromosomes flexible hinge domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29090]																																																								MODULE_188					
+9789	SPCS2	signal peptidase complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28962]																																																										MODULE_206			
+4646	MYO6	myosin VI [Source:HGNC Symbol;Acc:HGNC:7605]																																																													
+25932	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]																																																													
+54890	ALKBH5	alkB homolog 5, RNA demethylase [Source:HGNC Symbol;Acc:HGNC:25996]																																																													
+3831	KLC1	kinesin light chain 1 [Source:HGNC Symbol;Acc:HGNC:6387]																																																													
+47	ACLY	ATP citrate lyase [Source:HGNC Symbol;Acc:HGNC:115]																																																													
+23464	GCAT	glycine C-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:4188]																																																													
+7332	UBE2L3	ubiquitin conjugating enzyme E2 L3 [Source:HGNC Symbol;Acc:HGNC:12488]																																																													
+10061	ABCF2	ATP binding cassette subfamily F member 2 [Source:HGNC Symbol;Acc:HGNC:71]																																																													
+10112	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]																																																													
+10273	STUB1	STIP1 homology and U-box containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11427]																																																													
+10763	NES	nestin [Source:HGNC Symbol;Acc:HGNC:7756]																																																													
+1939	EIF2D	eukaryotic translation initiation factor 2D [Source:HGNC Symbol;Acc:HGNC:6583]																																																													
+221092	HNRNPUL2	heterogeneous nuclear ribonucleoprotein U like 2 [Source:HGNC Symbol;Acc:HGNC:25451]																																																													
+26145	IRF2BP1	interferon regulatory factor 2 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:21728]																																																													
+27044	SND1	staphylococcal nuclease and tudor domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30646]																																																													
+27143	PALD1	phosphatase domain containing paladin 1 [Source:HGNC Symbol;Acc:HGNC:23530]																																																													
+29128	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]																																																													
+29894	CPSF1	cleavage and polyadenylation specific factor 1 [Source:HGNC Symbol;Acc:HGNC:2324]																																																													
+4628	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]																																																													
+493856	CISD2	CDGSH iron sulfur domain 2 [Source:HGNC Symbol;Acc:HGNC:24212]																																																													
+51574	LARP7	La ribonucleoprotein 7, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:24912]																																																													
+51602	NOP58	NOP58 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:29926]																																																													
+54969	HPF1	histone PARylation factor 1 [Source:HGNC Symbol;Acc:HGNC:26051]																																																													
+5518	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]																																																													
+55920	RCC2	regulator of chromosome condensation 2 [Source:HGNC Symbol;Acc:HGNC:30297]																																																													
+57062	DDX24	DEAD-box helicase 24 [Source:HGNC Symbol;Acc:HGNC:13266]																																																													
+5976	UPF1	UPF1 RNA helicase and ATPase [Source:HGNC Symbol;Acc:HGNC:9962]																																																													
+6238	RRBP1	ribosome binding protein 1 [Source:HGNC Symbol;Acc:HGNC:10448]																																																													
+7170	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]																																																													
+7750	ZMYM2	zinc finger MYM-type containing 2 [Source:HGNC Symbol;Acc:HGNC:12989]																																																													
+7874	USP7	ubiquitin specific peptidase 7 [Source:HGNC Symbol;Acc:HGNC:12630]																																																													
+80155	NAA15	N-alpha-acetyltransferase 15, NatA auxiliary subunit [Source:HGNC Symbol;Acc:HGNC:30782]																																																													
+832	CAPZB	capping actin protein of muscle Z-line subunit beta [Source:HGNC Symbol;Acc:HGNC:1491]																																																													
+92521	SPECC1	sperm antigen with calponin homology and coiled-coil domains 1 [Source:HGNC Symbol;Acc:HGNC:30615]																																																													
+9360	PPIG	peptidylprolyl isomerase G [Source:HGNC Symbol;Acc:HGNC:14650]																																																													
+9748	SLK	STE20 like kinase [Source:HGNC Symbol;Acc:HGNC:11088]																																																													

@@ -1,0 +1,90 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	GCNP_SHH_UP_LATE.V1_UP	CAMP_UP.V1_DN	TBK1.DF_DN	ESC_V6.5_UP_EARLY.V1_DN	VEGF_A_UP.V1_DN	RB_P107_DN.V1_UP	CRX_DN.V1_DN	PDGF_ERK_DN.V1_UP	RPS14_DN.V1_DN	E2F1_UP.V1_UP	PIGF_UP.V1_UP	EIF4E_DN	CRX_NRL_DN.V1_DN	RB_P130_DN.V1_UP	NRL_DN.V1_DN	ALK_DN.V1_DN	PKCA_DN.V1_DN	MTOR_UP.V1_UP	SRC_UP.V1_DN	ESC_J1_UP_EARLY.V1_DN	SNF5_DN.V1_UP	ESC_V6.5_UP_LATE.V1_DN	E2F1_UP.V1_DN	ESC_J1_UP_LATE.V1_UP	IL15_UP.V1_UP	ATF2_UP.V1_UP	CYCLIN_D1_UP.V1_DN	EGFR_UP.V1_UP	LEF1_UP.V1_UP	LTE2_UP.V1_DN	ERBB2_UP.V1_DN	STK33_SKM_DN	STK33_SKM_UP	STK33_DN	STK33_NOMO_DN
+80155	NAA15	N-alpha-acetyltransferase 15, NatA auxiliary subunit [Source:HGNC Symbol;Acc:HGNC:30782]	GCNP_SHH_UP_LATE.V1_UP		TBK1.DF_DN																												ERBB2_UP.V1_DN				
+2634	GBP2	guanylate binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4183]	GCNP_SHH_UP_LATE.V1_UP			ESC_V6.5_UP_EARLY.V1_DN																ESC_J1_UP_EARLY.V1_DN			E2F1_UP.V1_DN					EGFR_UP.V1_UP					STK33_SKM_UP		
+3978	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]	GCNP_SHH_UP_LATE.V1_UP					RB_P107_DN.V1_UP													SRC_UP.V1_DN							ATF2_UP.V1_UP									
+10528	NOP56	NOP56 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:15911]	GCNP_SHH_UP_LATE.V1_UP									E2F1_UP.V1_UP																									
+25932	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	GCNP_SHH_UP_LATE.V1_UP												CRX_NRL_DN.V1_DN		NRL_DN.V1_DN																				
+51574	LARP7	La ribonucleoprotein 7, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:24912]	GCNP_SHH_UP_LATE.V1_UP																PKCA_DN.V1_DN																		
+301	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]		CAMP_UP.V1_DN		ESC_V6.5_UP_EARLY.V1_DN																ESC_J1_UP_EARLY.V1_DN		ESC_V6.5_UP_LATE.V1_DN	E2F1_UP.V1_DN										STK33_SKM_UP		
+9208	LRRFIP1	LRR binding FLII interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6702]		CAMP_UP.V1_DN			VEGF_A_UP.V1_DN																														
+4628	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]		CAMP_UP.V1_DN							RPS14_DN.V1_DN			EIF4E_DN																							
+9590	AKAP12	A-kinase anchoring protein 12 [Source:HGNC Symbol;Acc:HGNC:370]		CAMP_UP.V1_DN																										EGFR_UP.V1_UP	LEF1_UP.V1_UP						
+1975	EIF4B	eukaryotic translation initiation factor 4B [Source:HGNC Symbol;Acc:HGNC:3285]		CAMP_UP.V1_DN																																	
+57187	THOC2	THO complex 2 [Source:HGNC Symbol;Acc:HGNC:19073]			TBK1.DF_DN		VEGF_A_UP.V1_DN			PDGF_ERK_DN.V1_UP			PIGF_UP.V1_UP																								
+9360	PPIG	peptidylprolyl isomerase G [Source:HGNC Symbol;Acc:HGNC:14650]			TBK1.DF_DN		VEGF_A_UP.V1_DN						PIGF_UP.V1_UP																CYCLIN_D1_UP.V1_DN								
+4646	MYO6	myosin VI [Source:HGNC Symbol;Acc:HGNC:7605]			TBK1.DF_DN																					ESC_J1_UP_LATE.V1_UP											
+9748	SLK	STE20 like kinase [Source:HGNC Symbol;Acc:HGNC:11088]			TBK1.DF_DN																																
+5118	PCOLCE	procollagen C-endopeptidase enhancer [Source:HGNC Symbol;Acc:HGNC:8738]				ESC_V6.5_UP_EARLY.V1_DN		RB_P107_DN.V1_UP	CRX_DN.V1_DN		RPS14_DN.V1_DN													ESC_V6.5_UP_LATE.V1_DN													
+302	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]				ESC_V6.5_UP_EARLY.V1_DN			CRX_DN.V1_DN																												
+7112	TMPO	thymopoietin [Source:HGNC Symbol;Acc:HGNC:11875]					VEGF_A_UP.V1_DN																														
+1017	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]						RB_P107_DN.V1_UP																													
+5339	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]							CRX_DN.V1_DN						CRX_NRL_DN.V1_DN		NRL_DN.V1_DN										IL15_UP.V1_UP										
+4643	MYO1E	myosin IE [Source:HGNC Symbol;Acc:HGNC:7599]								PDGF_ERK_DN.V1_UP																											
+6238	RRBP1	ribosome binding protein 1 [Source:HGNC Symbol;Acc:HGNC:10448]								PDGF_ERK_DN.V1_UP																											
+10112	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]									RPS14_DN.V1_DN					RB_P130_DN.V1_UP							SNF5_DN.V1_UP														
+4678	NASP	nuclear autoantigenic sperm protein [Source:HGNC Symbol;Acc:HGNC:7644]										E2F1_UP.V1_UP																									
+54969	HPF1	histone PARylation factor 1 [Source:HGNC Symbol;Acc:HGNC:26051]										E2F1_UP.V1_UP																									
+4976	OPA1	OPA1 mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]											PIGF_UP.V1_UP																								
+5903	RANBP2	RAN binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9848]												EIF4E_DN																							
+8091	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]														RB_P130_DN.V1_UP										ESC_J1_UP_LATE.V1_UP								STK33_SKM_DN			
+10273	STUB1	STIP1 homology and U-box containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11427]																ALK_DN.V1_DN																			
+5518	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]																ALK_DN.V1_DN																			
+10970	CKAP4	cytoskeleton associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]																	PKCA_DN.V1_DN																		
+29128	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]																		MTOR_UP.V1_UP	SRC_UP.V1_DN																
+6309	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]																		MTOR_UP.V1_UP																	
+23603	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]																					SNF5_DN.V1_UP														
+26145	IRF2BP1	interferon regulatory factor 2 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:21728]																									IL15_UP.V1_UP										
+10763	NES	nestin [Source:HGNC Symbol;Acc:HGNC:7756]																										ATF2_UP.V1_UP			LEF1_UP.V1_UP						
+7170	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]																											CYCLIN_D1_UP.V1_DN								
+2037	EPB41L2	erythrocyte membrane protein band 4.1 like 2 [Source:HGNC Symbol;Acc:HGNC:3379]																														LTE2_UP.V1_DN					
+7750	ZMYM2	zinc finger MYM-type containing 2 [Source:HGNC Symbol;Acc:HGNC:12989]																														LTE2_UP.V1_DN					
+2317	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]																															ERBB2_UP.V1_DN				
+5074	PAWR	pro-apoptotic WT1 regulator [Source:HGNC Symbol;Acc:HGNC:8614]																																STK33_SKM_DN		STK33_DN	STK33_NOMO_DN
+27143	PALD1	phosphatase domain containing paladin 1 [Source:HGNC Symbol;Acc:HGNC:23530]																																		STK33_DN	STK33_NOMO_DN
+8899	PRPF4B	pre-mRNA processing factor 4B [Source:HGNC Symbol;Acc:HGNC:17346]																																			
+3831	KLC1	kinesin light chain 1 [Source:HGNC Symbol;Acc:HGNC:6387]																																			
+7247	TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]																																			
+4000	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]																																			
+92521	SPECC1	sperm antigen with calponin homology and coiled-coil domains 1 [Source:HGNC Symbol;Acc:HGNC:30615]																																			
+5834	PYGB	glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723]																																			
+2316	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]																																			
+2058	EPRS1	glutamyl-prolyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:3418]																																			
+10061	ABCF2	ATP binding cassette subfamily F member 2 [Source:HGNC Symbol;Acc:HGNC:71]																																			
+10376	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]																																			
+10989	IMMT	inner membrane mitochondrial protein [Source:HGNC Symbol;Acc:HGNC:6047]																																			
+1399	CRKL	CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]																																			
+1939	EIF2D	eukaryotic translation initiation factor 2D [Source:HGNC Symbol;Acc:HGNC:6583]																																			
+2091	FBL	fibrillarin [Source:HGNC Symbol;Acc:HGNC:3599]																																			
+221092	HNRNPUL2	heterogeneous nuclear ribonucleoprotein U like 2 [Source:HGNC Symbol;Acc:HGNC:25451]																																			
+22803	XRN2	5'-3' exoribonuclease 2 [Source:HGNC Symbol;Acc:HGNC:12836]																																			
+2314	FLII	FLII actin remodeling protein [Source:HGNC Symbol;Acc:HGNC:3750]																																			
+23191	CYFIP1	cytoplasmic FMR1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:13759]																																			
+23347	SMCHD1	structural maintenance of chromosomes flexible hinge domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29090]																																			
+23464	GCAT	glycine C-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:4188]																																			
+2597	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]																																			
+27044	SND1	staphylococcal nuclease and tudor domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30646]																																			
+29894	CPSF1	cleavage and polyadenylation specific factor 1 [Source:HGNC Symbol;Acc:HGNC:2324]																																			
+3068	HDGF	heparin binding growth factor [Source:HGNC Symbol;Acc:HGNC:4856]																																			
+3939	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]																																			
+4134	MAP4	microtubule associated protein 4 [Source:HGNC Symbol;Acc:HGNC:6862]																																			
+445815	PALM2AKAP2	PALM2 and AKAP2 fusion [Source:HGNC Symbol;Acc:HGNC:33529]																																			
+4627	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]																																			
+47	ACLY	ATP citrate lyase [Source:HGNC Symbol;Acc:HGNC:115]																																			
+493856	CISD2	CDGSH iron sulfur domain 2 [Source:HGNC Symbol;Acc:HGNC:24212]																																			
+51602	NOP58	NOP58 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:29926]																																			
+54890	ALKBH5	alkB homolog 5, RNA demethylase [Source:HGNC Symbol;Acc:HGNC:25996]																																			
+55651	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]																																			
+55920	RCC2	regulator of chromosome condensation 2 [Source:HGNC Symbol;Acc:HGNC:30297]																																			
+57062	DDX24	DEAD-box helicase 24 [Source:HGNC Symbol;Acc:HGNC:13266]																																			
+5976	UPF1	UPF1 RNA helicase and ATPase [Source:HGNC Symbol;Acc:HGNC:9962]																																			
+6202	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]																																			
+6224	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]																																			
+6294	SAFB	scaffold attachment factor B [Source:HGNC Symbol;Acc:HGNC:10520]																																			
+7167	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]																																			
+7175	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]																																			
+7332	UBE2L3	ubiquitin conjugating enzyme E2 L3 [Source:HGNC Symbol;Acc:HGNC:12488]																																			
+7411	VBP1	VHL binding protein 1 [Source:HGNC Symbol;Acc:HGNC:12662]																																			
+7874	USP7	ubiquitin specific peptidase 7 [Source:HGNC Symbol;Acc:HGNC:12630]																																			
+832	CAPZB	capping actin protein of muscle Z-line subunit beta [Source:HGNC Symbol;Acc:HGNC:1491]																																			
+9789	SPCS2	signal peptidase complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28962]																																			

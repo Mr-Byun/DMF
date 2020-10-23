@@ -1,0 +1,69 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	RPS14_DN.V1_DN	PRC2_EED_UP.V1_DN	PRC2_EZH2_UP.V1_DN	CAMP_UP.V1_UP	RB_P107_DN.V1_DN	ESC_V6.5_UP_EARLY.V1_DN	ESC_V6.5_UP_LATE.V1_DN	E2F1_UP.V1_UP	ERBB2_UP.V1_UP	PIGF_UP.V1_UP	TBK1.DF_DN	CAHOY_ASTROGLIAL	RB_DN.V1_UP	RB_P107_DN.V1_UP	CRX_DN.V1_DN	CRX_NRL_DN.V1_UP	ESC_J1_UP_LATE.V1_DN	AKT_UP.V1_UP	MTOR_UP.V1_UP	ESC_J1_UP_EARLY.V1_DN	AKT_UP_MTOR_DN.V1_UP	JAK2_DN.V1_UP	E2F1_UP.V1_DN	RAPA_EARLY_UP.V1_DN	EGFR_UP.V1_UP	RAF_UP.V1_UP	VEGF_A_UP.V1_DN	MEK_UP.V1_UP	KRAS.600_UP.V1_DN	TBK1.DF_UP
+55222	LRRC20	leucine rich repeat containing 20 [Source:HGNC Symbol;Acc:HGNC:23421]	RPS14_DN.V1_DN	PRC2_EED_UP.V1_DN	PRC2_EZH2_UP.V1_DN																											
+5347	PLK1	polo like kinase 1 [Source:HGNC Symbol;Acc:HGNC:9077]	RPS14_DN.V1_DN	PRC2_EED_UP.V1_DN																												
+23397	NCAPH	non-SMC condensin I complex subunit H [Source:HGNC Symbol;Acc:HGNC:1112]	RPS14_DN.V1_DN		PRC2_EZH2_UP.V1_DN					E2F1_UP.V1_UP						RB_P107_DN.V1_UP										RAPA_EARLY_UP.V1_DN						
+5118	PCOLCE	procollagen C-endopeptidase enhancer [Source:HGNC Symbol;Acc:HGNC:8738]	RPS14_DN.V1_DN					ESC_V6.5_UP_EARLY.V1_DN	ESC_V6.5_UP_LATE.V1_DN							RB_P107_DN.V1_UP	CRX_DN.V1_DN	CRX_NRL_DN.V1_UP	ESC_J1_UP_LATE.V1_DN													
+9700	ESPL1	extra spindle pole bodies like 1, separase [Source:HGNC Symbol;Acc:HGNC:16856]	RPS14_DN.V1_DN																													
+3070	HELLS	helicase, lymphoid specific [Source:HGNC Symbol;Acc:HGNC:4861]		PRC2_EED_UP.V1_DN	PRC2_EZH2_UP.V1_DN																MTOR_UP.V1_UP											
+29763	PACSIN3	protein kinase C and casein kinase substrate in neurons 3 [Source:HGNC Symbol;Acc:HGNC:8572]		PRC2_EED_UP.V1_DN							ERBB2_UP.V1_UP									AKT_UP.V1_UP			AKT_UP_MTOR_DN.V1_UP							MEK_UP.V1_UP		
+5905	RANGAP1	Ran GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:9854]		PRC2_EED_UP.V1_DN																				JAK2_DN.V1_UP								
+5106	PCK2	phosphoenolpyruvate carboxykinase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:8725]			PRC2_EZH2_UP.V1_DN																											
+3276	PRMT1	protein arginine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:5187]				CAMP_UP.V1_UP																										
+4191	MDH2	malate dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:6971]				CAMP_UP.V1_UP																										
+6396	SEC13	SEC13 homolog, nuclear pore and COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10697]				CAMP_UP.V1_UP																										
+64786	TBC1D15	TBC1 domain family member 15 [Source:HGNC Symbol;Acc:HGNC:25694]				CAMP_UP.V1_UP																										
+301	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]					RB_P107_DN.V1_DN	ESC_V6.5_UP_EARLY.V1_DN	ESC_V6.5_UP_LATE.V1_DN					CAHOY_ASTROGLIAL								ESC_J1_UP_EARLY.V1_DN			E2F1_UP.V1_DN							
+9255	AIMP1	aminoacyl tRNA synthetase complex interacting multifunctional protein 1 [Source:HGNC Symbol;Acc:HGNC:10648]					RB_P107_DN.V1_DN					PIGF_UP.V1_UP																	VEGF_A_UP.V1_DN			
+25828	TXN2	thioredoxin 2 [Source:HGNC Symbol;Acc:HGNC:17772]					RB_P107_DN.V1_DN																									
+824	CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]						ESC_V6.5_UP_EARLY.V1_DN			ERBB2_UP.V1_UP														E2F1_UP.V1_DN		EGFR_UP.V1_UP	RAF_UP.V1_UP		MEK_UP.V1_UP		
+201626	PDE12	phosphodiesterase 12 [Source:HGNC Symbol;Acc:HGNC:25386]							ESC_V6.5_UP_LATE.V1_DN																							
+4664	NAB1	NGFI-A binding protein 1 [Source:HGNC Symbol;Acc:HGNC:7626]								E2F1_UP.V1_UP							CRX_DN.V1_DN															
+6878	TAF6	TATA-box binding protein associated factor 6 [Source:HGNC Symbol;Acc:HGNC:11540]								E2F1_UP.V1_UP																						
+22924	MAPRE3	microtubule associated protein RP/EB family member 3 [Source:HGNC Symbol;Acc:HGNC:6892]									ERBB2_UP.V1_UP																				KRAS.600_UP.V1_DN	
+6416	MAP2K4	mitogen-activated protein kinase kinase 4 [Source:HGNC Symbol;Acc:HGNC:6844]										PIGF_UP.V1_UP															EGFR_UP.V1_UP					
+5189	PEX1	peroxisomal biogenesis factor 1 [Source:HGNC Symbol;Acc:HGNC:8850]										PIGF_UP.V1_UP																				
+51747	LUC7L3	LUC7 like 3 pre-mRNA splicing factor [Source:HGNC Symbol;Acc:HGNC:24309]											TBK1.DF_DN									ESC_J1_UP_EARLY.V1_DN										
+11231	SEC63	SEC63 homolog, protein translocation regulator [Source:HGNC Symbol;Acc:HGNC:21082]											TBK1.DF_DN																			
+51441	YTHDF2	YTH N6-methyladenosine RNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:31675]											TBK1.DF_DN																			
+10243	GPHN	gephyrin [Source:HGNC Symbol;Acc:HGNC:15465]												CAHOY_ASTROGLIAL																		TBK1.DF_UP
+10273	STUB1	STIP1 homology and U-box containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11427]													RB_DN.V1_UP																	
+9183	ZW10	zw10 kinetochore protein [Source:HGNC Symbol;Acc:HGNC:13194]													RB_DN.V1_UP																	
+83475	DOHH	deoxyhypusine hydroxylase [Source:HGNC Symbol;Acc:HGNC:28662]																CRX_NRL_DN.V1_UP														
+9989	PPP4R1	protein phosphatase 4 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:9320]																	ESC_J1_UP_LATE.V1_DN													
+6698	SPRR1A	small proline rich protein 1A [Source:HGNC Symbol;Acc:HGNC:11259]																		AKT_UP.V1_UP	MTOR_UP.V1_UP			JAK2_DN.V1_UP							KRAS.600_UP.V1_DN	
+23770	FKBP8	FKBP prolyl isomerase 8 [Source:HGNC Symbol;Acc:HGNC:3724]																					AKT_UP_MTOR_DN.V1_UP									
+5719	PSMD13	proteasome 26S subunit, non-ATPase 13 [Source:HGNC Symbol;Acc:HGNC:9558]																								RAPA_EARLY_UP.V1_DN						
+22848	AAK1	AP2 associated kinase 1 [Source:HGNC Symbol;Acc:HGNC:19679]																										RAF_UP.V1_UP				
+9859	CEP170	centrosomal protein 170 [Source:HGNC Symbol;Acc:HGNC:28920]																											VEGF_A_UP.V1_DN			
+51601	LIPT1	lipoyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:29569]																														TBK1.DF_UP
+7358	UGDH	UDP-glucose 6-dehydrogenase [Source:HGNC Symbol;Acc:HGNC:12525]																														
+2335	FN1	fibronectin 1 [Source:HGNC Symbol;Acc:HGNC:3778]																														
+9770	RASSF2	Ras association domain family member 2 [Source:HGNC Symbol;Acc:HGNC:9883]																														
+55915	LANCL2	LanC like 2 [Source:HGNC Symbol;Acc:HGNC:6509]																														
+4839	NOP2	NOP2 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:7867]																														
+6829	SUPT5H	SPT5 homolog, DSIF elongation factor subunit [Source:HGNC Symbol;Acc:HGNC:11469]																														
+6282	S100A11	S100 calcium binding protein A11 [Source:HGNC Symbol;Acc:HGNC:10488]																														
+23603	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]																														
+113130	CDCA5	cell division cycle associated 5 [Source:HGNC Symbol;Acc:HGNC:14626]																														
+114034	TOE1	target of EGR1, exonuclease [Source:HGNC Symbol;Acc:HGNC:15954]																														
+1939	EIF2D	eukaryotic translation initiation factor 2D [Source:HGNC Symbol;Acc:HGNC:6583]																														
+2060	EPS15	epidermal growth factor receptor pathway substrate 15 [Source:HGNC Symbol;Acc:HGNC:3419]																														
+2181	ACSL3	acyl-CoA synthetase long chain family member 3 [Source:HGNC Symbol;Acc:HGNC:3570]																														
+25831	HECTD1	HECT domain E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:20157]																														
+28964	GIT1	GIT ArfGAP 1 [Source:HGNC Symbol;Acc:HGNC:4272]																														
+389362	PSMG4	proteasome assembly chaperone 4 [Source:HGNC Symbol;Acc:HGNC:21108]																														
+51065	RPS27L	ribosomal protein S27 like [Source:HGNC Symbol;Acc:HGNC:18476]																														
+5230	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]																														
+5515	PPP2CA	protein phosphatase 2 catalytic subunit alpha [Source:HGNC Symbol;Acc:HGNC:9299]																														
+55172	DNAAF2	dynein axonemal assembly factor 2 [Source:HGNC Symbol;Acc:HGNC:20188]																														
+56683	CFAP298	cilia and flagella associated protein 298 [Source:HGNC Symbol;Acc:HGNC:1301]																														
+57446	NDRG3	NDRG family member 3 [Source:HGNC Symbol;Acc:HGNC:14462]																														
+5981	RFC1	replication factor C subunit 1 [Source:HGNC Symbol;Acc:HGNC:9969]																														
+6224	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]																														
+6651	SON	SON DNA and RNA binding protein [Source:HGNC Symbol;Acc:HGNC:11183]																														
+7264	TSTA3	tissue specific transplantation antigen P35B [Source:HGNC Symbol;Acc:HGNC:12390]																														
+7874	USP7	ubiquitin specific peptidase 7 [Source:HGNC Symbol;Acc:HGNC:12630]																														
+79736	TEFM	transcription elongation factor, mitochondrial [Source:HGNC Symbol;Acc:HGNC:26223]																														
+9181	ARHGEF2	Rho/Rac guanine nucleotide exchange factor 2 [Source:HGNC Symbol;Acc:HGNC:682]																														
+92935	MARS2	methionyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:25133]																														
