@@ -1,0 +1,26 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_52	430	Cell line expressed genes.	4	0.0093	1.58E-6	6.81E-4
+MODULE_105	200	Genes in the cancer module 105.	3	0.0150	1.01E-5	2.17E-3
+MODULE_1	368	Ovary genes.	3	0.0082	6.19E-5	6.06E-3
+MODULE_2	384	DRG (dorsal root ganglia) genes.	3	0.0078	7.03E-5	6.06E-3
+MODULE_3	384	Genes in the cancer module 3.	3	0.0078	7.03E-5	6.06E-3
+MODULE_6	413	Trachea genes.	3	0.0073	8.72E-5	6.22E-3
+MODULE_5	434	Lung genes.	3	0.0069	1.01E-4	6.22E-3
+MODULE_235	81	AA and sulfur metabolism.	2	0.0247	1.44E-4	7.76E-3
+MODULE_72	308	Testis genes.	2	0.0065	2.05E-3	9.42E-2
+MODULE_83	320	Genes in the cancer module 83.	2	0.0063	2.21E-3	9.42E-2
+MODULE_15	357	Genes in the cancer module 14.	2	0.0056	2.73E-3	9.42E-2
+MODULE_12	360	Spinal cord (neuro-development) genes.	2	0.0056	2.78E-3	9.42E-2
+MODULE_17	364	Genes in the cancer module 17.	2	0.0055	2.84E-3	9.42E-2
+MODULE_118	408	cell line expressed genes.	2	0.0049	3.55E-3	1.08E-1
+MODULE_8	421	Genes in the cancer module 8.	2	0.0048	3.78E-3	1.08E-1
+MODULE_18	450	Genes in the cancer module 18.	2	0.0044	4.3E-3	1.09E-1
+MODULE_24	453	Fetal liver genes - metabolism and xenobiotics.	2	0.0044	4.36E-3	1.09E-1
+MODULE_38	463	Placenta genes.	2	0.0043	4.55E-3	1.09E-1
+MODULE_84	546	Immune (humoral) and inflammatory response.	2	0.0037	6.26E-3	1.42E-1
+MODULE_23	562	Liver genes - metabolism and xenobiotics.	2	0.0036	6.62E-3	1.43E-1
+MODULE_45	581	Whole blood genes.	2	0.0034	7.06E-3	1.45E-1
+MODULE_55	831	Genes in the cancer module 55.	2	0.0024	1.4E-2	2.65E-1
+MODULE_88	834	Heart, liver, kidney and pancreas metabolic and xenobiotic response genes.	2	0.0024	1.41E-2	2.65E-1
+
+

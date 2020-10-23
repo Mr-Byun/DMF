@@ -1,0 +1,54 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_52	430	Cell line expressed genes.	7	0.0163	2.6E-6	1.12E-3
+MODULE_18	450	Genes in the cancer module 18.	6	0.0133	4.34E-5	9.12E-3
+MODULE_72	308	Testis genes.	5	0.0162	7.84E-5	9.12E-3
+MODULE_16	508	Genes in the cancer module 15.	6	0.0118	8.46E-5	9.12E-3
+MODULE_12	360	Spinal cord (neuro-development) genes.	5	0.0139	1.62E-4	1.29E-2
+MODULE_1	368	Ovary genes.	5	0.0136	1.8E-4	1.29E-2
+MODULE_3	384	Genes in the cancer module 3.	5	0.0130	2.19E-4	1.31E-2
+MODULE_98	393	Genes in the cancer module 98.	5	0.0127	2.44E-4	1.31E-2
+MODULE_60	422	Heart genes.	5	0.0118	3.38E-4	1.62E-2
+MODULE_5	434	Lung genes.	5	0.0115	3.84E-4	1.65E-2
+MODULE_38	463	Placenta genes.	5	0.0108	5.15E-4	2.02E-2
+MODULE_306	26	Glycolysis and TCA cycle.	2	0.0769	6.32E-4	2.27E-2
+MODULE_397	121	Genes in the cancer module 397.	3	0.0248	6.98E-4	2.31E-2
+MODULE_324	133	Metal / Ca ion binding.	3	0.0226	9.17E-4	2.65E-2
+MODULE_198	303	Genes in the cancer module 198.	4	0.0132	9.24E-4	2.65E-2
+MODULE_17	364	Genes in the cancer module 17.	4	0.0110	1.81E-3	4.88E-2
+MODULE_2	384	DRG (dorsal root ganglia) genes.	4	0.0104	2.2E-3	5.51E-2
+MODULE_61	50	Genes in the cancer module 61.	2	0.0400	2.33E-3	5.51E-2
+MODULE_244	187	Response to DNA damage.	3	0.0160	2.43E-3	5.51E-2
+MODULE_118	408	cell line expressed genes.	4	0.0098	2.73E-3	5.51E-2
+MODULE_6	413	Trachea genes.	4	0.0097	2.86E-3	5.51E-2
+MODULE_57	56	Genes in the cancer module 57.	2	0.0357	2.91E-3	5.51E-2
+MODULE_105	200	Genes in the cancer module 105.	3	0.0150	2.94E-3	5.51E-2
+MODULE_254	60	Genes in the cancer module 254.	2	0.0333	3.34E-3	5.99E-2
+MODULE_24	453	Fetal liver genes - metabolism and xenobiotics.	4	0.0088	3.97E-3	6.84E-2
+MODULE_241	73	Genes in the cancer module 241.	2	0.0274	4.9E-3	8.12E-2
+MODULE_76	81	Inflammatory response.	2	0.0247	5.99E-3	9.2E-2
+MODULE_54	262	Cell cycle (expression cluster).	3	0.0115	6.23E-3	9.2E-2
+MODULE_20	83	Genes in the cancer module 20.	2	0.0241	6.28E-3	9.2E-2
+MODULE_55	831	Genes in the cancer module 55.	5	0.0060	6.52E-3	9.2E-2
+MODULE_88	834	Heart, liver, kidney and pancreas metabolic and xenobiotic response genes.	5	0.0060	6.62E-3	9.2E-2
+MODULE_84	546	Immune (humoral) and inflammatory response.	4	0.0073	7.62E-3	1.03E-1
+MODULE_174	95	Genes in the cancer module 174.	2	0.0211	8.15E-3	1.05E-1
+MODULE_124	96	Transcription.	2	0.0208	8.32E-3	1.05E-1
+MODULE_486	100	Genes in the cancer module 486.	2	0.0200	9E-3	1.11E-1
+MODULE_45	581	Whole blood genes.	4	0.0069	9.42E-3	1.13E-1
+MODULE_321	112	Genes in the cancer module 321.	2	0.0179	1.12E-2	1.27E-1
+MODULE_44	325	Thymus genes.	3	0.0092	1.12E-2	1.27E-1
+MODULE_53	403	Cell line expressed genes.	3	0.0074	1.98E-2	2.19E-1
+MODULE_532	407	Blood cells and cancer expression clusters.	3	0.0074	2.03E-2	2.19E-1
+MODULE_459	431	Genes in the cancer module 459.	3	0.0070	2.36E-2	2.48E-1
+MODULE_378	435	Genes in the cancer module 378.	3	0.0069	2.41E-2	2.48E-1
+MODULE_317	440	Genes in the cancer module 317.	3	0.0068	2.49E-2	2.49E-1
+MODULE_255	450	Genes in the cancer module 255.	3	0.0067	2.63E-2	2.58E-1
+MODULE_179	468	Blood cells and cancer expression cancer.	3	0.0064	2.91E-2	2.79E-1
+MODULE_47	225	ECM and collagens.	2	0.0089	4.09E-2	3.84E-1
+MODULE_252	237	TFs and nuclear.	2	0.0084	4.49E-2	4.07E-1
+MODULE_23	562	Liver genes - metabolism and xenobiotics.	3	0.0053	4.6E-2	4.07E-1
+MODULE_32	241	Genes in the cancer module 32.	2	0.0083	4.63E-2	4.07E-1
+MODULE_212	329	Catalytic activities / metabolism.	2	0.0061	7.99E-2	6.89E-1
+MODULE_15	357	Genes in the cancer module 14.	2	0.0056	9.18E-2	7.76E-1
+
+

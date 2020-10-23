@@ -1,0 +1,5 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	6	0.0030	2.21E-4	2.66E-1
+GO_PROTEIN_DOMAIN_SPECIFIC_BINDING	714	Interacting selectively and non-covalently with a specific domain of a protein. [GOC:go_curators]	4	0.0056	3.13E-4	2.66E-1
+
+

@@ -1,0 +1,10 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_3	384	Genes in the cancer module 3.	4	0.0104	1.87E-4	6.45E-2
+MODULE_419	34	Genes in the cancer module 419.	2	0.0588	2.99E-4	6.45E-2
+MODULE_123	247	Genes in the cancer module 123.	3	0.0121	8.31E-4	1.19E-1
+MODULE_321	112	Genes in the cancer module 321.	2	0.0179	3.2E-3	3.45E-1
+MODULE_244	187	Response to DNA damage.	2	0.0107	8.65E-3	7.45E-1
+MODULE_47	225	ECM and collagens.	2	0.0089	1.23E-2	8.64E-1
+MODULE_32	241	Genes in the cancer module 32.	2	0.0083	1.4E-2	8.64E-1
+
+

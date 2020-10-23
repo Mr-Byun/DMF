@@ -1,0 +1,13 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_TRANSCRIPTION_FACTOR_BINDING	642	Interacting selectively and non-covalently with a transcription factor, a protein required to initiate or regulate transcription. [ISBN:0198506732]	3	0.0047	6.14E-4	6.23E-1
+GO_STRUCTURAL_MOLECULE_ACTIVITY	709	The action of a molecule that contributes to the structural integrity of a complex or its assembly within or outside a cell. [GOC:mah, GOC:vw]	3	0.0042	8.19E-4	6.23E-1
+GO_STRUCTURAL_CONSTITUENT_OF_RIBOSOME	186	The action of a molecule that contributes to the structural integrity of the ribosome. [GOC:mah]	2	0.0108	1.15E-3	6.23E-1
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	4	0.0020	1.47E-3	6.23E-1
+GO_RNA_POLYMERASE_II_SPECIFIC_DNA_BINDING_TRANSCRIPTION_FACTOR_BINDING	267	Interacting selectively and non-covalently with a sequence-specific DNA binding RNA polymerase II transcription factor, any of the factors that interact selectively and non-covalently with a specific DNA sequence in order to modulate transcription. [GOC:dph, GOC:vw]	2	0.0075	2.34E-3	7.33E-1
+GO_ENZYME_REGULATOR_ACTIVITY	1059	Binds to and modulates the activity of an enzyme. [GOC:dph, GOC:mah, GOC:tb]	3	0.0028	2.59E-3	7.33E-1
+GO_CADHERIN_BINDING	332	Interacting selectively and non-covalently with cadherin, a type I membrane protein involved in cell adhesion. [GOC:bf]	2	0.0060	3.58E-3	7.95E-1
+GO_DNA_BINDING_TRANSCRIPTION_FACTOR_BINDING	347	Interacting selectively and non-covalently with a DNA-binding transcription factor, a protein that interacts with a specific DNA sequence (sometimes referred to as a motif) within the regulatory region of a gene to modulate transcription. [GOC:txnOH-2018]	2	0.0058	3.91E-3	7.95E-1
+GO_PROTEIN_CONTAINING_COMPLEX_BINDING	1258	Interacting selectively and non-covalently with a macromolecular complex. [GOC:jl]	3	0.0024	4.22E-3	7.95E-1
+GO_ENZYME_INHIBITOR_ACTIVITY	381	Binds to and stops, prevents or reduces the activity of an enzyme. [GOC:ai, GOC:ebc]	2	0.0052	4.69E-3	7.95E-1
+
+

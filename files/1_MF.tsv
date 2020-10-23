@@ -1,0 +1,9 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_ENZYME_REGULATOR_ACTIVITY	1059	Binds to and modulates the activity of an enzyme. [GOC:dph, GOC:mah, GOC:tb]	5	0.0047	1.47E-6	2.5E-3
+GO_PEPTIDASE_ACTIVATOR_ACTIVITY	40	Binds to and increases the activity of a peptidase, any enzyme that catalyzes the hydrolysis peptide bonds. [GOC:ai]	2	0.0500	3.48E-5	2.95E-2
+GO_ENZYME_ACTIVATOR_ACTIVITY	526	Binds to and increases the activity of an enzyme. [GOC:dph, GOC:mah, GOC:tb]	3	0.0057	1.78E-4	1.01E-1
+GO_STRUCTURAL_MOLECULE_ACTIVITY	709	The action of a molecule that contributes to the structural integrity of a complex or its assembly within or outside a cell. [GOC:mah, GOC:vw]	3	0.0042	4.28E-4	1.82E-1
+GO_PEPTIDASE_REGULATOR_ACTIVITY	227	Modulates the activity of a peptidase, any enzyme that catalyzes the hydrolysis peptide bonds. [GOC:dph, GOC:tb]	2	0.0088	1.12E-3	3.8E-1
+GO_PROTEIN_HETERODIMERIZATION_ACTIVITY	321	Interacting selectively and non-covalently with a nonidentical protein to form a heterodimer. [GOC:ai]	2	0.0062	2.22E-3	6.28E-1
+
+

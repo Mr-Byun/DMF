@@ -1,0 +1,20 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_CADHERIN_BINDING_INVOLVED_IN_CELL_CELL_ADHESION	18	Any cadherin binding that occurs as part of the process of cell-cell adhesion. [GOC:dos]	2	0.1111	7.15E-5	1.21E-1
+GO_CHROMATIN_BINDING	596	Interacting selectively and non-covalently with chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase. [GOC:jl, ISBN:0198506732, PMID:20404130]	4	0.0067	7.47E-4	4.6E-1
+GO_CELL_ADHESION_MEDIATOR_ACTIVITY	60	The binding by a cell-adhesion protein on a cell surface to an adhesion molecule on another cell surface, to mediate adhesion of the cell to the external substrate or to another cell. [GOC:vw, Wikipedia:Cell_adhesion]	2	0.0333	8.13E-4	4.6E-1
+GO_CALCIUM_DEPENDENT_PROTEIN_BINDING	82	Interacting selectively and non-covalently with any protein or protein complex (a complex of two or more proteins that may include other nonprotein molecules), in the presence of calcium. [GOC:jid, PMID:10485905]	2	0.0244	1.51E-3	5.53E-1
+GO_PROTEIN_CONTAINING_COMPLEX_BINDING	1258	Interacting selectively and non-covalently with a macromolecular complex. [GOC:jl]	5	0.0040	1.63E-3	5.53E-1
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	6	0.0030	2.1E-3	5.94E-1
+GO_CYSTEINE_TYPE_ENDOPEPTIDASE_ACTIVITY	114	Catalysis of the hydrolysis of internal, alpha-peptide bonds in a polypeptide chain by a mechanism in which the sulfhydryl group of a cysteine residue at the active center acts as a nucleophile. [GOC:mah, http://merops.sanger.ac.uk/about/glossary.htmCATTYPE, http://merops.sanger.ac.uk/about/glossary.htmENDOPEPTIDASE]	2	0.0175	2.89E-3	6.57E-1
+GO_TRANSFERASE_ACTIVITY_TRANSFERRING_PHOSPHORUS_CONTAINING_GROUPS	879	Catalysis of the transfer of a phosphorus-containing group from one compound (donor) to another (acceptor). [GOC:jl, ISBN:0198506732]	4	0.0046	3.1E-3	6.57E-1
+GO_OXIDOREDUCTASE_ACTIVITY_ACTING_ON_CH_OH_GROUP_OF_DONORS	130	Catalysis of an oxidation-reduction (redox) reaction in which a CH-OH group act as a hydrogen or electron donor and reduces a hydrogen or electron acceptor. [GOC:ai]	2	0.0154	3.74E-3	7.04E-1
+GO_CYSTEINE_TYPE_PEPTIDASE_ACTIVITY	139	Catalysis of the hydrolysis of peptide bonds in a polypeptide chain by a mechanism in which the sulfhydryl group of a cysteine residue at the active center acts as a nucleophile. [GOC:mah, http://merops.sanger.ac.uk/about/glossary.htmCATTYPE]	2	0.0144	4.26E-3	7.22E-1
+GO_ISOMERASE_ACTIVITY	156	Catalysis of the geometric or structural changes within one molecule. Isomerase is the systematic name for any enzyme of EC class 5. [ISBN:0198506732]	2	0.0128	5.33E-3	7.75E-1
+GO_HELICASE_ACTIVITY	160	Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix. [GOC:jl]	2	0.0125	5.59E-3	7.75E-1
+GO_LIGASE_ACTIVITY	165	Catalysis of the joining of two molecules, or two groups within a single molecule, using the energy from the hydrolysis of ATP, a similar triphosphate, or a pH gradient. [EC:6, GOC:mah]	2	0.0121	5.94E-3	7.75E-1
+GO_PROTEIN_KINASE_ACTIVITY	563	Catalysis of the phosphorylation of an amino acid residue in a protein, usually according to the reaction: a protein + ATP = a phosphoprotein + ADP. [MetaCyc:PROTEIN-KINASE-RXN]	3	0.0053	6.96E-3	8.44E-1
+GO_RIBONUCLEOTIDE_BINDING	1899	Interacting selectively and non-covalently with a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety. [GOC:mah]	5	0.0026	9.39E-3	9.94E-1
+GO_IDENTICAL_PROTEIN_BINDING	1926	Interacting selectively and non-covalently with an identical protein or proteins. [GOC:jl]	5	0.0026	9.95E-3	9.94E-1
+GO_TRANSCRIPTION_FACTOR_BINDING	642	Interacting selectively and non-covalently with a transcription factor, a protein required to initiate or regulate transcription. [ISBN:0198506732]	3	0.0047	9.96E-3	9.94E-1
+
+

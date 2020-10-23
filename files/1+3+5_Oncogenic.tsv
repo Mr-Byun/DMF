@@ -1,0 +1,33 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+RPS14_DN.V1_DN	186	Genes down-regulated in CD34+ hematopoietic progenitor cells after knockdown of RPS14 [Gene ID=6208] by RNAi.	5	0.0269	1.56E-5	1.76E-3
+PRC2_EED_UP.V1_DN	193	Genes down-regulated in TIG3 cells (fibroblasts) upon knockdown of EED [Gene ID=8726] gene.	5	0.0259	1.87E-5	1.76E-3
+PRC2_EZH2_UP.V1_DN	192	Genes down-regulated in TIG3 cells (fibroblasts) upon knockdown of EZH2 [Gene ID=2146] gene.	4	0.0208	3.09E-4	1.71E-2
+CAMP_UP.V1_UP	200	Genes up-regulated in primary thyrocyte cultures in response to cAMP signaling pathway activation by thyrotropin (TSH).	4	0.0200	3.61E-4	1.71E-2
+RB_P107_DN.V1_DN	126	Genes down-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	3	0.0238	1.26E-3	4.75E-2
+ESC_V6.5_UP_EARLY.V1_DN	161	Genes down-regulated during early stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	3	0.0186	2.53E-3	7.6E-2
+ESC_V6.5_UP_LATE.V1_DN	179	Genes down-regulated during late stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	3	0.0168	3.4E-3	7.6E-2
+E2F1_UP.V1_UP	188	Genes up-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	3	0.0160	3.91E-3	7.6E-2
+ERBB2_UP.V1_UP	190	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] and engineered to express ligand-activatable ERBB2 [Gene ID=2064].	3	0.0158	4.02E-3	7.6E-2
+PIGF_UP.V1_UP	190	Genes up-regulated in HUVEC cells (endothelium) by treatment with PIGF [Gene ID=5281].	3	0.0158	4.02E-3	7.6E-2
+TBK1.DF_DN	285	Genes down-regulated in epithelial lung cancer cell lines upon over-expression of an oncogenic form of KRAS [Gene ID=3845] gene and knockdown of TBK1 [Gene ID=29110] gene by RNAi.	3	0.0105	1.22E-2	1.93E-1
+CAHOY_ASTROGLIAL	100	Genes up-regulated in astrogia cells.	2	0.0200	1.23E-2	1.93E-1
+RB_DN.V1_UP	117	Genes up-regulated in primary keratinocytes from RB1 [Gene ID=5925] skin specific knockout mice.	2	0.0171	1.65E-2	2.4E-1
+RB_P107_DN.V1_UP	130	Genes up-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	2	0.0154	2.01E-2	2.61E-1
+CRX_DN.V1_DN	132	Genes down-regulated in retina cells from CRX [Gene ID=1406] knockout mice.	2	0.0152	2.07E-2	2.61E-1
+CRX_NRL_DN.V1_UP	140	Genes up-regulated in retina cells from CRX and NRL [Gene ID=1406, 4901] double knockout mice.	2	0.0143	2.31E-2	2.73E-1
+ESC_J1_UP_LATE.V1_DN	168	Genes down-regulated during late stages of differentiation of embryoid bodies from J1 embryonic stem cells.	2	0.0119	3.23E-2	2.86E-1
+AKT_UP.V1_UP	169	Genes up-regulated in mouse prostate by transgenic expression of human AKT1 gene [Gene ID=207]  vs controls.	2	0.0118	3.27E-2	2.86E-1
+MTOR_UP.V1_UP	169	Genes up-regulated by everolimus [PubChem = 6442177] in prostate tissue.	2	0.0118	3.27E-2	2.86E-1
+ESC_J1_UP_EARLY.V1_DN	173	Genes down-regulated during early stages of differentiation of embryoid bodies from J1 embryonic stem cells.	2	0.0116	3.41E-2	2.86E-1
+AKT_UP_MTOR_DN.V1_UP	178	Genes up-regulated by everolimus [PubChem = 6442177] in mouse prostate tissue transgenically expressing human AKT1 gene [Gene ID=207]  vs untreated controls.	2	0.0112	3.59E-2	2.86E-1
+JAK2_DN.V1_UP	183	Genes up-regulated in HEL cells (erythroleukemia) after knockdown of JAK2 [Gene ID=3717] gene by RNAi.	2	0.0109	3.78E-2	2.86E-1
+E2F1_UP.V1_DN	185	Genes down-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	2	0.0108	3.85E-2	2.86E-1
+RAPA_EARLY_UP.V1_DN	185	Genes down-regulated in BJAB (lymphoma) cells by rapamycin (sirolimus) [PubChem = 6610346].	2	0.0108	3.85E-2	2.86E-1
+EGFR_UP.V1_UP	192	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] and engineered to express ligand-activatable EGFR [Gene ID=1956].	2	0.0104	4.12E-2	2.86E-1
+RAF_UP.V1_UP	193	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] MCF-7 cells (breast cancer) stably over-expressing constitutively active RAF1 [Gene ID=5894] gene.	2	0.0104	4.16E-2	2.86E-1
+VEGF_A_UP.V1_DN	193	Genes down-regulated in HUVEC cells (endothelium) by treatment with VEGFA [Gene ID=7422].	2	0.0104	4.16E-2	2.86E-1
+MEK_UP.V1_UP	195	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] MCF-7 cells (breast cancer) stably over-expressing constitutively active MAP2K1 [Gene ID=5604] gene.	2	0.0103	4.24E-2	2.86E-1
+KRAS.600_UP.V1_DN	279	Genes down-regulated in four lineages of epithelial cell lines over-expressing an oncogenic form of KRAS [Gene ID=3845] gene.	2	0.0072	7.95E-2	5.18E-1
+TBK1.DF_UP	287	Genes up-regulated in epithelial lung cancer cell lines upon over-expression of an oncogenic form of KRAS [Gene ID=3845] gene and knockdown of TBK1 [Gene ID=29110] gene by RNAi.	2	0.0070	8.35E-2	5.26E-1
+
+

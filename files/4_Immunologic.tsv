@@ -1,0 +1,103 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GSE29617_CTRL_VS_DAY3_TIV_FLU_VACCINE_PBMC_2008_DN	199	Genes down-regulated in comparison of peripheral blood mononuclear cells (PBMC) from TIV influenza vaccinee pre-vaccination versus those at day 3 post-vaccination.	5	0.0251	7.11E-7	1.18E-3
+GSE9006_TYPE_1_VS_TYPE_2_DIABETES_PBMC_AT_DX_DN	199	Genes down-regulated in peripheral blood mononuclear cells (PBMC) from patients with type 1 diabetes at the time of diagnosis versus those with type 2 diabetes at the time of diagnosis.	5	0.0251	7.11E-7	1.18E-3
+GSE360_CTRL_VS_L_MAJOR_MAC_UP	200	Genes up-regulated in comparison of macrophages versus macrophages exposed to L. major.	5	0.0250	7.29E-7	1.18E-3
+GSE38696_LIGHT_ZONE_VS_DARK_ZONE_BCELL_UP	184	Genes up-regulated in B lymphocytes: light zone versus dark zone.	4	0.0217	1.79E-5	1.1E-2
+GSE11057_NAIVE_CD4_VS_PBMC_CD4_TCELL_DN	197	Genes down-regulated in comparison of naive T cells versus peripheral blood mononuclear cells (PBMC).	4	0.0203	2.34E-5	1.1E-2
+GSE15330_WT_VS_IKAROS_KO_HSC_DN	199	Genes down-regulated in hematopoietic stem cells: wildtype versus IKZF1 [GeneID=10320] knockout.	4	0.0201	2.44E-5	1.1E-2
+GSE19923_WT_VS_HEB_KO_DP_THYMOCYTE_DN	199	Genes down-regulated in double positive thymocytes: wildtype versus TCF12 [GeneID=6938] knockout.	4	0.0201	2.44E-5	1.1E-2
+GSE360_L_MAJOR_VS_B_MALAYI_HIGH_DOSE_MAC_DN	199	Genes down-regulated in comparison of macrophages exposed to L. major versus macrophages exposed to 50 worms/well B. malayi.	4	0.0201	2.44E-5	1.1E-2
+GSE10273_HIGH_VS_LOW_IL7_TREATED_IRF4_8_NULL_PRE_BCELL_UP	200	Genes up-regulated in IRF4 and IRF8 [GeneID=3662;3394] null pre-B cells treated with IL7 [GeneID=3574]: 5 ng/ml versus 0.25ng/ml.	4	0.0200	2.48E-5	1.1E-2
+GSE15930_NAIVE_VS_72H_IN_VITRO_STIM_CD8_TCELL_DN	200	Genes down-regulated in comparison of CD8 T cells at 0 h versus those at 72 h.	4	0.0200	2.48E-5	1.1E-2
+GSE15930_NAIVE_VS_72H_IN_VITRO_STIM_IFNAB_CD8_TCELL_DN	200	Genes down-regulated in comparison of CD8 T cells at 0 h versus those at 72 h after stimulation with antigen-B7-1.	4	0.0200	2.48E-5	1.1E-2
+GSE6674_UNSTIM_VS_CPG_STIM_BCELL_DN	164	Genes down-regulated in B lymphocytes: control versus CpG oligodeoxynucleotide 1826.	3	0.0183	3.67E-4	3.84E-2
+GSE4984_GALECTIN1_VS_LPS_STIM_DC_DN	169	Genes down-regulated in monocyte-derived dendritic cells: LGALS1 [GeneID=3956] versus LPS.	3	0.0178	4.01E-4	3.84E-2
+GSE4984_UNTREATED_VS_VEHICLE_CTRL_TREATED_DC_DN	173	Genes down-regulated in monocyte-derived dendritic cells: untreated versus vehicle.	3	0.0173	4.29E-4	3.84E-2
+GSE14415_ACT_VS_CTRL_NATURAL_TREG_UP	183	Genes up-regulated in natural T reg: activated versus naïve.	3	0.0164	5.05E-4	3.84E-2
+GSE27241_WT_CTRL_VS_DIGOXIN_TREATED_RORGT_KO_CD4_TCELL_IN_TH17_POLARIZING_CONDITIONS_DN	184	Genes down-regulated in polarizing CD4 [GeneID=920] Th17 cells: wildtype vs RORC [GeneID=6097] knockout treated with digoxin [PubChem=2724385].	3	0.0163	5.13E-4	3.84E-2
+GSE18791_UNSTIM_VS_NEWCATSLE_VIRUS_DC_1H_DN	193	Genes down-regulated in comparison of control conventional dendritic cells (cDC) at 1 h versus cDCs infected with Newcastle disease virus (NDV) at 1 h.	3	0.0155	5.9E-4	3.84E-2
+GSE16385_IL4_VS_ROSIGLITAZONE_STIM_MACROPHAGE_UP	194	Genes up-regulated in macrophages (12h): IL4 [GeneID=3565] versus rosiglitazone [PubChem=77999].	3	0.0155	5.99E-4	3.84E-2
+GSE25088_WT_VS_STAT6_KO_MACROPHAGE_ROSIGLITAZONE_STIM_UP	194	Genes up-regulated in bone marrow-derived macrophages treated with rosiglitazone [PubChem=77999]: wildtype versus STAT6 [GeneID=6778] knockout.	3	0.0155	5.99E-4	3.84E-2
+GSE22611_UNSTIM_VS_6H_MDP_STIM_NOD2_TRANSDUCED_HEK293T_CELL_UP	196	Genes up-regulated in HEK293 cells over-expressing wildtype NOD2 [GeneID=64127]: untreated versus muramyl dipeptide [PubChem=11620162] for 6h.	3	0.0153	6.17E-4	3.84E-2
+GSE26023_PHD3_KO_VS_WT_NEUTROPHIL_HYPOXIA_DN	196	Genes down-regulated in neutrophils under hypoxia: EGLN3 [GeneID=112399] knockout versus wildtype.	3	0.0153	6.17E-4	3.84E-2
+GSE37533_PPARG1_FOXP3_VS_PPARG2_FOXP3_TRANSDUCED_CD4_TCELL_PIOGLITAZONE_TREATED_UP	196	Genes up-regulated in CD4 [GeneID=920] T cells treated with pioglitazone [PubChem=4829] and over-expressing: FOXP3 [GeneID=50943] and PPARg1 isoform of PPARG [GeneID=5468] versus FOXP3 [GeneID=50943] and PPARg2 form of PPARG [GeneID=5468].	3	0.0153	6.17E-4	3.84E-2
+GSE9988_ANTI_TREM1_AND_LPS_VS_CTRL_TREATED_MONOCYTES_DN	197	Genes down-regulated in comparison of monocytes treated with anti-TREM1 [GeneID=54210] and 5000 ng/ml LPS (TLR4 agonist) versus monocytes treated with control IgG.	3	0.0152	6.26E-4	3.84E-2
+GSE13411_NAIVE_VS_IGM_MEMORY_BCELL_DN	198	Genes down-regulated in comparison of naive B cells versus IgM-memory B cells.	3	0.0152	6.35E-4	3.84E-2
+GSE13411_NAIVE_VS_MEMORY_BCELL_DN	198	Genes down-regulated in comparison of naive B cells versus memory B cells.	3	0.0152	6.35E-4	3.84E-2
+GSE9006_HEALTHY_VS_TYPE_1_DIABETES_PBMC_AT_DX_UP	198	Genes up-regulated in comparison of peripheral blood mononuclear cells (PBMC) from healthy donors versus PBMCs from patients with type 1 diabetes at the time of diagnosis.	3	0.0152	6.35E-4	3.84E-2
+GSE12366_PLASMA_CELL_VS_NAIVE_BCELL_DN	199	Genes down-regulated in plasma cells versus naive B cells.	3	0.0151	6.44E-4	3.84E-2
+GSE13484_3H_UNSTIM_VS_YF17D_VACCINE_STIM_PBMC_UP	199	Genes up-regulated in comparison of unstimulated peripheral blood mononuclear cells (PBMC) cultured for 3 h versus PBMC cultured for 3 h with YF17D vaccine.	3	0.0151	6.44E-4	3.84E-2
+GSE15930_NAIVE_VS_24H_IN_VITRO_STIM_CD8_TCELL_DN	199	Genes down-regulated in comparison of CD8 T cells at 0 h versus those at 24 h.	3	0.0151	6.44E-4	3.84E-2
+GSE15930_NAIVE_VS_24H_IN_VITRO_STIM_IL12_CD8_TCELL_DN	199	Genes down-regulated in comparison of CD8 T cells at 0 h versus those at 24 h after stimulation with IL12 .	3	0.0151	6.44E-4	3.84E-2
+GSE15930_NAIVE_VS_24H_IN_VITRO_STIM_INFAB_CD8_TCELL_DN	199	Genes down-regulated in comparison of CD8 T cells at 0 h versus those at 24 h after stimulation with antigen-B7-1.	3	0.0151	6.44E-4	3.84E-2
+GSE15930_NAIVE_VS_48H_IN_VITRO_STIM_IL12_CD8_TCELL_UP	199	Genes up-regulated in comparison of CD8 T cells at 0 h versus those at 48 h after stimulation with IL12.	3	0.0151	6.44E-4	3.84E-2
+GSE15930_NAIVE_VS_72H_IN_VITRO_STIM_TRICHOSTATINA_CD8_TCELL_DN	199	Genes down-regulated in comparison of CD8 T cells at 0 h versus those at 72 h after treatment with trichostatin A (TSA) [PubChem=5562].	3	0.0151	6.44E-4	3.84E-2
+GSE17721_0.5H_VS_8H_GARDIQUIMOD_BMDC_DN	199	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Gardiquimod (TLR7 agonist) at 0.5 h versus those stimulated with Gardiquimod (TLR7 agonist) at 8 h.	3	0.0151	6.44E-4	3.84E-2
+GSE17721_PAM3CSK4_VS_CPG_16H_BMDC_DN	199	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 16 h versus DC cells stimulated with CpG DNA (TLR9 agonist) at 16 h.	3	0.0151	6.44E-4	3.84E-2
+GSE22886_CD8_VS_CD4_NAIVE_TCELL_UP	199	Genes up-regulated in comparison of naive CD8 T cells versus naive CD4 [GeneID=920] T cells.	3	0.0151	6.44E-4	3.84E-2
+GSE2405_0H_VS_12H_A_PHAGOCYTOPHILUM_STIM_NEUTROPHIL_UP	199	Genes up-regulated in polymorphonuclear leukocytes (12h): control versus infection by A. phagocytophilum.	3	0.0151	6.44E-4	3.84E-2
+GSE2585_CTEC_VS_THYMIC_MACROPHAGE_DN	199	Genes down-regulated in cortical thymic epithelial cells (cTEC) versus thymic macrophages.	3	0.0151	6.44E-4	3.84E-2
+GSE360_DC_VS_MAC_B_MALAYI_LOW_DOSE_UP	199	Genes up-regulated in comparison of dendritic cells (DC) exposed to 5 worm/well B. malayi versus macrophages exposed to 5 worms/well B. malayi.	3	0.0151	6.44E-4	3.84E-2
+GSE360_T_GONDII_VS_M_TUBERCULOSIS_MAC_UP	199	Genes up-regulated in comparison of macrophages exposed to T. gondii versus macrophages exposed to M. tuberculosis.	3	0.0151	6.44E-4	3.84E-2
+GSE369_SOCS3_KO_VS_WT_LIVER_UP	199	Genes up-regulated in livers: SOCS3 [GeneID=9021] knockout versus wildtype.	3	0.0151	6.44E-4	3.84E-2
+GSE37533_PPARG1_FOXP3_VS_FOXP3_TRANSDUCED_CD4_TCELL_PIOGLITAZONE_TREATED_DN	199	Genes down-regulated in CD4 [GeneID=920] T cells treated with pioglitazone [PubChem=4829] and over-expressing: FOXP3 [GeneID=50943] and PPARg1 isoform of PPARG [GeneID=5468] versus FOXP3 [GeneID=50943].	3	0.0151	6.44E-4	3.84E-2
+GSE39022_LN_VS_SPLEEN_DC_UP	199	Genes up-regulated in dendritic cells from: lymph node versus spleen.	3	0.0151	6.44E-4	3.84E-2
+GSE3982_EOSINOPHIL_VS_MAC_DN	199	Genes down-regulated in comparison of eosinophils versus macrophages.	3	0.0151	6.44E-4	3.84E-2
+GSE5589_LPS_VS_LPS_AND_IL6_STIM_IL10_KO_MACROPHAGE_45MIN_DN	199	Genes down-regulated in bone marrow-derived macrophages with IL10 [GeneID=3486] knockout and 45 min stimulation by: LPS versus IL6 [GeneID=3469] and LPS.	3	0.0151	6.44E-4	3.84E-2
+GSE6674_ANTI_IGM_VS_ANTI_IGM_AND_CPG_STIM_BCELL_UP	199	Genes up-regulated in B lymphocytes: anti IgM versus anti IgM and CpG oligodeoxynucleotide 1826.	3	0.0151	6.44E-4	3.84E-2
+GSE7852_THYMUS_VS_FAT_TREG_DN	199	Genes down-regulated in comparison of thymus regulatory T cells versus fat tissue regulatory T cells.	3	0.0151	6.44E-4	3.84E-2
+GSE14308_INDUCED_VS_NATURAL_TREG_UP	200	Genes up-regulated in comparison of induced regulatory T cell (Treg) versus natural regulatory T cell (Treg).	3	0.0150	6.54E-4	3.84E-2
+GSE15930_NAIVE_VS_72H_IN_VITRO_STIM_IL12_CD8_TCELL_DN	200	Genes down-regulated in comparison of CD8 T cells at 0 h versus those at 72 h after stimulation with IL12.	3	0.0150	6.54E-4	3.84E-2
+GSE15930_STIM_VS_STIM_AND_IL12_24H_CD8_T_CELL_UP	200	Genes up-regulated in comparison of unstimulated CD8 T cells at 24 h versus CD8 T cells at 24 h after stimulation with IL12.	3	0.0150	6.54E-4	3.84E-2
+GSE15930_STIM_VS_STIM_AND_TRICHOSTATINA_24H_CD8_T_CELL_DN	200	Genes down-regulated in comparison of unstimulated CD8 T cells at 24 h versus CD8 T cells at 24 h after treatment with trichostatin A (TSA) [PubChem=5562].	3	0.0150	6.54E-4	3.84E-2
+GSE17186_NAIVE_VS_CD21HIGH_TRANSITIONAL_BCELL_CORD_BLOOD_UP	200	Genes up-regulated in B lymphocytes from cord blood: naïve versus transitional CR2 [GeneID=1380] high.	3	0.0150	6.54E-4	3.84E-2
+GSE17186_NAIVE_VS_CD21LOW_TRANSITIONAL_BCELL_CORD_BLOOD_UP	200	Genes up-regulated in B lymphocytes from cord blood: naïve versus transitional CR2 [GeneID=1380].	3	0.0150	6.54E-4	3.84E-2
+GSE17721_0.5H_VS_24H_GARDIQUIMOD_BMDC_DN	200	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Gardiquimod (TLR7 agonist) at 0.5 h versus those stimulated with Gardiquimod (TLR7 agonist) at 24 h.	3	0.0150	6.54E-4	3.84E-2
+GSE17721_CTRL_VS_POLYIC_1H_BMDC_UP	200	Genes up-regulated in comparison of control dendritic cells (DC) at 1 h versus those stimulated with poly(I:C) (TLR3 agonist) at 1 h.	3	0.0150	6.54E-4	3.84E-2
+GSE17721_LPS_VS_POLYIC_12H_BMDC_DN	200	Genes down-regulated in comparison of dendritic cells (DC) stimulated with LPS (TLR4 agonist) at 12 h versus DC cells stimulated with poly(I:C) (TLR3 agonist) at 12 h.	3	0.0150	6.54E-4	3.84E-2
+GSE17721_PAM3CSK4_VS_CPG_24H_BMDC_DN	200	Genes down-regulated in comparison of dendritic cells (DC) stimulated with Pam3Csk4 (TLR1/2 agonist) at 24 h versus DC cells stimulated with CpG DNA (TLR9 agonist) at 24 h.	3	0.0150	6.54E-4	3.84E-2
+GSE1925_CTRL_VS_3H_IFNG_STIM_MACROPHAGE_UP	200	Genes up-regulated in macrophages: untreated versus stimulated by IFNG [GeneID=3458] for 3h.	3	0.0150	6.54E-4	3.84E-2
+GSE22886_DAY1_VS_DAY7_MONOCYTE_IN_CULTURE_DN	200	Genes down-regulated in comparison of monocytes cultured for 1 day versus those cultured for 7 days.	3	0.0150	6.54E-4	3.84E-2
+GSE22886_NAIVE_CD4_TCELL_VS_48H_ACT_TH2_DN	200	Genes down-regulated in comparison of naive CD4 [GeneID=920] T cells versus stimulated CD4 [GeneID=920] Th2 cells at 48 h.	3	0.0150	6.54E-4	3.84E-2
+GSE22886_NAIVE_CD8_TCELL_VS_NEUTROPHIL_UP	200	Genes up-regulated in comparison of naive CD8 T cells versus unstimulated neutrophils.	3	0.0150	6.54E-4	3.84E-2
+GSE22935_UNSTIM_VS_24H_MBOVIS_BCG_STIM_MYD88_KO_MACROPHAGE_DN	200	Genes down-regulated macrophages with MYD88 [GeneID=4615] knockout: untreated versus 24h after M. bovis BCG infection.	3	0.0150	6.54E-4	3.84E-2
+GSE23321_CENTRAL_VS_EFFECTOR_MEMORY_CD8_TCELL_UP	200	Genes up-regulated in CD8 T cells: central memory versus effector memory.	3	0.0150	6.54E-4	3.84E-2
+GSE23505_IL6_IL1_VS_IL6_IL1_TGFB_TREATED_CD4_TCELL_DN	200	Genes down-regulated in CD4 [GeneID=920] T cells treated with IL1B and IL6 [GeneID=3553;3569] versus those also treated with TGFB1 [GeneID=7040].	3	0.0150	6.54E-4	3.84E-2
+GSE24292_WT_VS_PPARG_KO_MACROPHAGE_DN	200	Genes down-regulated in macrophages: wildtype versus PPARG [GeneID=5468] knockout.	3	0.0150	6.54E-4	3.84E-2
+GSE26030_UNSTIM_VS_RESTIM_TH17_DAY15_POST_POLARIZATION_DN	200	Genes down-regulated in Th17 cells 15 days post polarization: control versus stimulated with anti-CD3 and anti-CD28.	3	0.0150	6.54E-4	3.84E-2
+GSE27670_CTRL_VS_BLIMP1_TRANSDUCED_GC_BCELL_DN	200	Genes down-regulated in germinal center B lymphocytes: control versus over-expressing PRDM1 [GeneID=639].	3	0.0150	6.54E-4	3.84E-2
+GSE2770_UNTREATED_VS_ACT_CD4_TCELL_2H_DN	200	Genes down-regulated in CD4 [GeneID=920] T cells: untreated (0h) versus activated by anti-CD3 and anti-CD28 (2h).	3	0.0150	6.54E-4	3.84E-2
+GSE27786_ERYTHROBLAST_VS_MONO_MAC_UP	200	Genes up-regulated in comparison of erythroblasts versus monocyte macrophages.	3	0.0150	6.54E-4	3.84E-2
+GSE3039_CD4_TCELL_VS_ALPHAALPHA_CD8_TCELL_UP	200	Genes up-regulated in T cells: CD4 [GeneID=920] versus CD8A [GeneID=925].	3	0.0150	6.54E-4	3.84E-2
+GSE3337_CTRL_VS_16H_IFNG_IN_CD8POS_DC_DN	200	Genes down-regulated in comparison of untreated CD8+ dendritic cells (DC) at 16 h versus those treated with IFNG [GeneID=31658] at 16 h.	3	0.0150	6.54E-4	3.84E-2
+GSE339_CD8POS_VS_CD4CD8DN_DC_UP	200	Genes up-regulated in comparison of CD8 dendritic cells (DC) versus CD4- [GeneID=920] CD8- DCs.	3	0.0150	6.54E-4	3.84E-2
+GSE35685_CD34POS_CD38NEG_VS_CD34POS_CD10NEG_CD62LPOS_BONE_MARROW_UP	200	Genes up-regulated in the bone marrow CD34+ [GeneID=947] cells: CD38- [GeneID=952] versus MME- SELL+ [GeneID=4311;6402].	3	0.0150	6.54E-4	3.84E-2
+GSE36476_CTRL_VS_TSST_ACT_16H_MEMORY_CD4_TCELL_OLD_DN	200	Genes down-regulated in comparison of untreated CD4 [GeneID=920] memory T cells from old donors versus those treated with TSST at 16 h.	3	0.0150	6.54E-4	3.84E-2
+GSE36476_CTRL_VS_TSST_ACT_72H_MEMORY_CD4_TCELL_OLD_DN	200	Genes down-regulated in comparison of untreated CD4 [GeneID=920] memory T cells from old donors versus those treated with TSST at 72 h.	3	0.0150	6.54E-4	3.84E-2
+GSE36826_WT_VS_IL1R_KO_SKIN_STAPH_AUREUS_INF_UP	200	Genes up-regulated in lesional skin biopsies after S. aureus infection: wildtype versus IL1R1 [GeneID=3554].	3	0.0150	6.54E-4	3.84E-2
+GSE37301_LYMPHOID_PRIMED_MPP_VS_COMMON_LYMPHOID_PROGENITOR_DN	200	Genes down-regulated in lymphoid primed multipotent progenitors versus common lymphoid progenitors.	3	0.0150	6.54E-4	3.84E-2
+GSE40273_GATA1_KO_VS_WT_TREG_UP	200	Genes up-regulated in T reg: GATA1 [GeneID=2623] knockout versus wildtype.	3	0.0150	6.54E-4	3.84E-2
+GSE40443_INDUCED_VS_TOTAL_TREG_DN	200	Genes down-regulated in T reg: induced versus total.	3	0.0150	6.54E-4	3.84E-2
+GSE43955_TH0_VS_TGFB_IL6_IL23_TH17_ACT_CD4_TCELL_60H_UP	200	Genes up-regulated in CD4 [GeneID=920] T helper cells (60h): Th0 versus Th17 treated with TGFB1, IL6 [GeneID=7040;3569] and IL-23.	3	0.0150	6.54E-4	3.84E-2
+GSE7852_LN_VS_FAT_TREG_DN	200	Genes down-regulated in comparison of lymph node regulatory T cells versus fat tissue regulatory T cells.	3	0.0150	6.54E-4	3.84E-2
+GSE8685_IL2_ACT_IL2_STARVED_VS_IL15_ACT_IL2_STARVED_CD4_TCELL_UP	200	Genes up-regulated in Sez-2 cells (T cell lymphoma): untreated versus IL15 [GeneID=3600].	3	0.0150	6.54E-4	3.84E-2
+GSE8921_UNSTIM_VS_TLR1_2_STIM_MONOCYTE_3H_DN	200	Genes down-regulated in monocytes (3h): untreated versus M. tuberculosis 19 kDa lipopeptide.	3	0.0150	6.54E-4	3.84E-2
+GSE33292_DN3_THYMOCYTE_VS_TCF1_KO_TCELL_LYMPHOMA_DN	148	Genes down-regulated in wildtype DN3 thymocytes versus T cell lymphoma cells from TCF7 [GeneID=6932] knockout.	2	0.0135	7.03E-3	1.44E-1
+GSE10147_IL3_AND_HIVP17_VS_IL3_AND_CPG_STIM_PDC_DN	152	Genes down-regulated in plasmacytoid dendritic cells treated with IL3 [GeneID=3562]: HIV matrix protein p17 versus CpG.	2	0.0132	7.41E-3	1.44E-1
+GSE10211_UV_INACT_SENDAI_VS_LIVE_SENDAI_VIRUS_TRACHEAL_EPITHELIAL_CELLS_UP	152	Genes up-regulated in tracheal epithelial cells infected with UV inactivated versus intact Sendai virus.	2	0.0132	7.41E-3	1.44E-1
+GSE4590_PRE_BCELL_VS_LARGE_PRE_BCELL_DN	156	Genes down-regulated during B lymphocyte differentiation: pre-B I versus large pre-B II.	2	0.0128	7.79E-3	1.44E-1
+GSE4590_PRE_BCELL_VS_VPREB_POS_LARGE_PRE_BCELL_UP	157	Genes up-regulated during B lymphocyte differentiation: pre-B I versus VPREB1+ [GeneID=7441] large pre-B II.	2	0.0127	7.88E-3	1.44E-1
+GSE24671_CTRL_VS_SENDAI_VIRUS_INFECTED_MOUSE_SPLENOCYTES_UP	161	Genes up-regulated in splenocytes: control versus infected with Sendai virus.	2	0.0124	8.27E-3	1.44E-1
+GSE21360_SECONDARY_VS_QUATERNARY_MEMORY_CD8_TCELL_DN	164	Genes down-regulated in memory CD8 T cells: 2' versus 4'.	2	0.0122	8.57E-3	1.44E-1
+GSE3565_DUSP1_VS_WT_SPLENOCYTES_POST_LPS_INJECTION_UP	164	Genes up-regulated in spleen from mice injected with LPS: DUSP1 [GeneID=1843] knockout versus wildtype.	2	0.0122	8.57E-3	1.44E-1
+GSE37534_GW1929_VS_ROSIGLITAZONE_TREATED_CD4_TCELL_PPARG1_FOXP3_TRANSDUCED_DN	164	Genes down-regulated in CD4 [GeneID=920] T cells over-expressing FOXP3 [GeneID=50943] and PPARg1 isoform of PPARG [GeneID=5468]: GW1929 [PubChem=6518171] versus rosiglitazone [PubChem=77999].	2	0.0122	8.57E-3	1.44E-1
+GSE19941_IL10_KO_VS_IL10_KO_AND_NFKBP50_KO_LPS_AND_IL10_STIM_MACROPHAGE_DN	165	Genes down-regulated in IL10 [GeneID=3586] knockout macrophages stimulated by IL10 [GeneID=3586] versus NFKB1 [GeneID=4790] knockout macrophages stimulated by IL10 [GeneID=3586] and LPS.	2	0.0121	8.67E-3	1.44E-1
+GSE37563_WT_VS_CTLA4_KO_CD4_TCELL_D4_POST_IMMUNIZATION_UP	165	Genes up-regulated in CD4 [GeneID=920] cells after immunization: wildtype versus CTLA4 [GeneID=1493] knockout.	2	0.0121	8.67E-3	1.44E-1
+GSE21033_3H_VS_12H_POLYIC_STIM_DC_UP	166	Genes up-regulated in bone marrow-derived dendritic cellstreated by poly(IC): 3h versus 12h.	2	0.0120	8.77E-3	1.44E-1
+GSE24671_CTRL_VS_BAKIMULC_INFECTED_MOUSE_SPLENOCYTES_DN	170	Genes down-regulated in splenocytes: control versus infected with Baki-1 MuLV virus.	2	0.0118	9.18E-3	1.44E-1
+GSE37533_UNTREATED_VS_PIOGLIZATONE_TREATED_CD4_TCELL_FOXP3_TRASDUCED_CD4_TCELL_UP	170	Genes up-regulated in CD4 [GeneID=920] T cells over-expressing FOXP3 [GeneID=50943]: untreated versus pioglitazone [PubChem=4829].	2	0.0118	9.18E-3	1.44E-1
+GSE6259_FLT3L_INDUCED_33D1_POS_DC_VS_CD4_TCELL_UP	171	Genes up-regulated in cells from Flt3L Melanom injected mice: 33D1+ versus CD4 [GeneID=920] T cells.	2	0.0117	9.29E-3	1.44E-1
+GSE7219_UNSTIM_VS_LPS_AND_ANTI_CD40_STIM_DC_UP	172	Genes up-regulated in dendric cells: untreated versus LPS and anti-CD40.	2	0.0116	9.39E-3	1.44E-1
+GSE35825_UNTREATED_VS_IFNA_STIM_MACROPHAGE_UP	173	Genes up-regulated in bone marrow-derived macrophages: untreated versus stimulated by interferon alpha.	2	0.0116	9.5E-3	1.44E-1
+
+

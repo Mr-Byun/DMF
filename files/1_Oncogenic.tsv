@@ -1,0 +1,9 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+RB_P107_DN.V1_UP	130	Genes up-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	2	0.0154	3.7E-4	2.43E-2
+ESC_V6.5_UP_EARLY.V1_DN	161	Genes down-regulated during early stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	2	0.0124	5.67E-4	2.43E-2
+ESC_J1_UP_LATE.V1_DN	168	Genes down-regulated during late stages of differentiation of embryoid bodies from J1 embryonic stem cells.	2	0.0119	6.17E-4	2.43E-2
+ESC_V6.5_UP_LATE.V1_DN	179	Genes down-regulated during late stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	2	0.0112	7E-4	2.43E-2
+RPS14_DN.V1_DN	186	Genes down-regulated in CD34+ hematopoietic progenitor cells after knockdown of RPS14 [Gene ID=6208] by RNAi.	2	0.0108	7.55E-4	2.43E-2
+E2F1_UP.V1_UP	188	Genes up-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	2	0.0106	7.71E-4	2.43E-2
+
+

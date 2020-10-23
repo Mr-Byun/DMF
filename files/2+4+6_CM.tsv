@@ -1,0 +1,36 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_32	241	Genes in the cancer module 32.	8	0.0332	8.25E-9	3.56E-6
+MODULE_83	320	Genes in the cancer module 83.	7	0.0219	1.24E-6	2.67E-4
+MODULE_133	15	Genes in the cancer module 133.	3	0.2000	2.1E-6	3.01E-4
+MODULE_306	26	Glycolysis and TCA cycle.	3	0.1154	1.18E-5	1.27E-3
+MODULE_277	55	Genes in the cancer module 277.	3	0.0545	1.15E-4	9.92E-3
+MODULE_183	65	RNA splicing.	3	0.0462	1.89E-4	1.2E-2
+MODULE_212	329	Catalytic activities / metabolism.	5	0.0152	2.47E-4	1.2E-2
+MODULE_150	15	Ttranslation elongation.	2	0.1333	2.94E-4	1.2E-2
+MODULE_160	15	tRNA synthesis.	2	0.1333	2.94E-4	1.2E-2
+MODULE_244	187	Response to DNA damage.	4	0.0214	2.96E-4	1.2E-2
+MODULE_110	16	Genes in the cancer module 110.	2	0.1250	3.35E-4	1.2E-2
+MODULE_35	16	Genes in the cancer module 35.	2	0.1250	3.35E-4	1.2E-2
+MODULE_159	81	Translation regulation.	3	0.0370	3.63E-4	1.2E-2
+MODULE_43	99	Energy pathways.	3	0.0303	6.52E-4	2.01E-2
+MODULE_184	29	Genes in the cancer module 184.	2	0.0690	1.12E-3	3.21E-2
+MODULE_221	30	Fatty acid metabolism.	2	0.0667	1.2E-3	3.22E-2
+MODULE_229	31	Genes in the cancer module 229.	2	0.0645	1.28E-3	3.24E-2
+MODULE_151	318	Genes in the cancer module 151.	4	0.0126	2.13E-3	5.09E-2
+MODULE_87	44	Genes in the cancer module 87.	2	0.0455	2.56E-3	5.71E-2
+MODULE_114	338	Protein biosynthesis and ribosomes.	4	0.0118	2.65E-3	5.71E-2
+MODULE_2	384	DRG (dorsal root ganglia) genes.	4	0.0104	4.17E-3	8.57E-2
+MODULE_107	79	Genes in the cancer module 107.	2	0.0253	8.04E-3	1.57E-1
+MODULE_209	89	Catabolic peptidases.	2	0.0225	1.01E-2	1.89E-1
+MODULE_172	96	Genes in the cancer module 172.	2	0.0208	1.17E-2	2.1E-1
+MODULE_177	101	Genes in the cancer module 177.	2	0.0198	1.29E-2	2.22E-1
+MODULE_321	112	Genes in the cancer module 321.	2	0.0179	1.56E-2	2.59E-1
+MODULE_152	124	Oxidative phosphorylation and ATP synthesis.	2	0.0161	1.89E-2	3.02E-1
+MODULE_324	133	Metal / Ca ion binding.	2	0.0150	2.16E-2	3.32E-1
+MODULE_12	360	Spinal cord (neuro-development) genes.	3	0.0083	2.35E-2	3.49E-1
+MODULE_1	368	Ovary genes.	3	0.0082	2.48E-2	3.57E-1
+MODULE_3	384	Genes in the cancer module 3.	3	0.0078	2.77E-2	3.85E-1
+MODULE_252	237	TFs and nuclear.	2	0.0084	6.15E-2	8.09E-1
+MODULE_7	238	Genes in the cancer module 7.	2	0.0084	6.2E-2	8.09E-1
+
+

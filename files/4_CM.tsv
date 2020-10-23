@@ -1,0 +1,13 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_306	26	Glycolysis and TCA cycle.	2	0.0769	2.24E-4	9.66E-2
+MODULE_87	44	Genes in the cancer module 87.	2	0.0455	6.46E-4	1.21E-1
+MODULE_277	55	Genes in the cancer module 277.	2	0.0364	1.01E-3	1.21E-1
+MODULE_32	241	Genes in the cancer module 32.	3	0.0124	1.12E-3	1.21E-1
+MODULE_83	320	Genes in the cancer module 83.	3	0.0094	2.51E-3	1.8E-1
+MODULE_212	329	Catalytic activities / metabolism.	3	0.0091	2.72E-3	1.8E-1
+MODULE_43	99	Energy pathways.	2	0.0202	3.22E-3	1.8E-1
+MODULE_177	101	Genes in the cancer module 177.	2	0.0198	3.35E-3	1.8E-1
+MODULE_152	124	Oxidative phosphorylation and ATP synthesis.	2	0.0161	4.99E-3	2.39E-1
+MODULE_244	187	Response to DNA damage.	2	0.0107	1.1E-2	4.75E-1
+
+

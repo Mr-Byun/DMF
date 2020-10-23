@@ -1,0 +1,14 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+ESC_V6.5_UP_EARLY.V1_DN	161	Genes down-regulated during early stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	3	0.0186	1.94E-4	2.05E-2
+E2F1_UP.V1_UP	188	Genes up-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	3	0.0160	3.05E-4	2.05E-2
+PRC2_EZH2_UP.V1_DN	192	Genes down-regulated in TIG3 cells (fibroblasts) upon knockdown of EZH2 [Gene ID=2146] gene.	3	0.0156	3.25E-4	2.05E-2
+RB_P107_DN.V1_UP	130	Genes up-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	2	0.0154	3.74E-3	1.45E-1
+CRX_DN.V1_DN	132	Genes down-regulated in retina cells from CRX [Gene ID=1406] knockout mice.	2	0.0152	3.85E-3	1.45E-1
+ESC_V6.5_UP_LATE.V1_DN	179	Genes down-regulated during late stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	2	0.0112	6.95E-3	1.48E-1
+E2F1_UP.V1_DN	185	Genes down-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	2	0.0108	7.41E-3	1.48E-1
+RPS14_DN.V1_DN	186	Genes down-regulated in CD34+ hematopoietic progenitor cells after knockdown of RPS14 [Gene ID=6208] by RNAi.	2	0.0108	7.48E-3	1.48E-1
+EGFR_UP.V1_UP	192	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] and engineered to express ligand-activatable EGFR [Gene ID=1956].	2	0.0104	7.95E-3	1.48E-1
+RAF_UP.V1_UP	193	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] MCF-7 cells (breast cancer) stably over-expressing constitutively active RAF1 [Gene ID=5894] gene.	2	0.0104	8.03E-3	1.48E-1
+CAMP_UP.V1_UP	200	Genes up-regulated in primary thyrocyte cultures in response to cAMP signaling pathway activation by thyrotropin (TSH).	2	0.0100	8.6E-3	1.48E-1
+
+

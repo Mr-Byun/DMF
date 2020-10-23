@@ -1,0 +1,5 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+HP_HYPODONTIA	163	Hypodontia	3	0.0184	6.1E-5	2.74E-1
+HP_ABNORMAL_NUMBER_OF_TEETH	294	Abnormal number of teeth	3	0.0102	3.47E-4	7.8E-1
+
+

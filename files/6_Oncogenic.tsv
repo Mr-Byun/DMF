@@ -1,0 +1,15 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+E2F1_UP.V1_DN	185	Genes down-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	3	0.0162	2.24E-3	4.24E-1
+RB_DN.V1_UP	117	Genes up-regulated in primary keratinocytes from RB1 [Gene ID=5925] skin specific knockout mice.	2	0.0171	1.17E-2	4.9E-1
+RB_P107_DN.V1_DN	126	Genes down-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	2	0.0159	1.35E-2	4.9E-1
+ALK_DN.V1_DN	139	Genes down-regulated in DAOY cells (medulloblastoma) upon knockdown of ALK [Gene ID=238] gene by RNAi.	2	0.0144	1.63E-2	4.9E-1
+SNF5_DN.V1_UP	173	Genes up-regulated in MEF cells (embryonic fibroblasts) with knockout of SNF5 [Gene ID=6598] gene.	2	0.0116	2.45E-2	4.9E-1
+DCA_UP.V1_DN	185	Genes down-regulated in A549 lung carcinoma and M059K glioblastoma cells treated with dichloroacetate [PubChem=6597].	2	0.0108	2.77E-2	4.9E-1
+PRC2_SUZ12_UP.V1_DN	192	Genes down-regulated in TIG3 cells (fibroblasts) upon knockdown of SUZ12 [Gene ID=23512] gene.	2	0.0104	2.97E-2	4.9E-1
+RAF_UP.V1_DN	193	Genes down-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] MCF-7 cells (breast cancer) stably over-expressing constitutively active RAF1 [Gene ID=5894] gene.	2	0.0104	3E-2	4.9E-1
+RAF_UP.V1_UP	193	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] MCF-7 cells (breast cancer) stably over-expressing constitutively active RAF1 [Gene ID=5894] gene.	2	0.0104	3E-2	4.9E-1
+MEK_UP.V1_UP	195	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] MCF-7 cells (breast cancer) stably over-expressing constitutively active MAP2K1 [Gene ID=5604] gene.	2	0.0103	3.06E-2	4.9E-1
+MTOR_UP.N4.V1_UP	196	Genes up-regulated in CEM-C1 cells (T-CLL) in comparison of control vs rapamycin (sirolimus) [PubChem=6610346], an mTOR pathway inhibitor.	2	0.0102	3.08E-2	4.9E-1
+ERBB2_UP.V1_DN	197	Genes down-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] and engineered to express ligand-activatable ERBB2 [Gene ID=2064].	2	0.0102	3.11E-2	4.9E-1
+
+

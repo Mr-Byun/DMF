@@ -1,0 +1,4 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_REGULATION_OF_HYDROLASE_ACTIVITY	1302	Any process that modulates the frequency, rate or extent of hydrolase activity, the catalysis of the hydrolysis of various bonds, e.g. C-O, C-N, C-C, phosphoric anhydride bonds, etc. Hydrolase is the systematic name for any enzyme of EC class 3. [EC:3.-.-.-, GOC:ai]	5	0.0038	4.06E-6	3.08E-2
+
+

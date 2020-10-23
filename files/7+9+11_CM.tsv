@@ -1,0 +1,64 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_3	384	Genes in the cancer module 3.	11	0.0286	8.98E-10	3.87E-7
+MODULE_419	34	Genes in the cancer module 419.	5	0.1471	1.2E-8	2.6E-6
+MODULE_321	112	Genes in the cancer module 321.	6	0.0536	1.87E-7	2.69E-5
+MODULE_524	30	Actin cytoskeleton binding.	4	0.1333	5.7E-7	6.14E-5
+MODULE_98	393	Genes in the cancer module 98.	8	0.0204	2.59E-6	2.23E-4
+MODULE_352	17	Nuclear pore complex.	3	0.1765	6.81E-6	4.29E-4
+MODULE_18	450	Genes in the cancer module 18.	8	0.0178	6.97E-6	4.29E-4
+MODULE_306	26	Glycolysis and TCA cycle.	3	0.1154	2.57E-5	1.38E-3
+MODULE_52	430	Cell line expressed genes.	7	0.0163	4.69E-5	2.25E-3
+MODULE_198	303	Genes in the cancer module 198.	6	0.0198	5.73E-5	2.47E-3
+MODULE_1	368	Ovary genes.	6	0.0163	1.66E-4	6.41E-3
+MODULE_252	237	TFs and nuclear.	5	0.0211	1.82E-4	6.41E-3
+MODULE_32	241	Genes in the cancer module 32.	5	0.0207	1.97E-4	6.41E-3
+MODULE_2	384	DRG (dorsal root ganglia) genes.	6	0.0156	2.08E-4	6.41E-3
+MODULE_8	421	Genes in the cancer module 8.	6	0.0143	3.4E-4	9.78E-3
+MODULE_5	434	Lung genes.	6	0.0138	4E-4	1.08E-2
+MODULE_110	16	Genes in the cancer module 110.	2	0.1250	5.61E-4	1.34E-2
+MODULE_35	16	Genes in the cancer module 35.	2	0.1250	5.61E-4	1.34E-2
+MODULE_543	17	Annexin, MHCII, and lectins.	2	0.1176	6.35E-4	1.44E-2
+MODULE_151	318	Genes in the cancer module 151.	5	0.0157	6.98E-4	1.48E-2
+MODULE_126	183	Lymphoma and immune response expression clusters.	4	0.0219	7.28E-4	1.48E-2
+MODULE_136	491	Genes in the cancer module 136.	6	0.0122	7.62E-4	1.48E-2
+MODULE_244	187	Response to DNA damage.	4	0.0214	7.89E-4	1.48E-2
+MODULE_114	338	Protein biosynthesis and ribosomes.	5	0.0148	9.16E-4	1.65E-2
+MODULE_15	357	Genes in the cancer module 14.	5	0.0140	1.17E-3	2.01E-2
+MODULE_17	364	Genes in the cancer module 17.	5	0.0137	1.27E-3	2.11E-2
+MODULE_202	28	Genes in the cancer module 202.	2	0.0714	1.74E-3	2.58E-2
+MODULE_29	28	Genes in the cancer module 29.	2	0.0714	1.74E-3	2.58E-2
+MODULE_303	28	Genes in the cancer module 303.	2	0.0714	1.74E-3	2.58E-2
+MODULE_38	463	Placenta genes.	5	0.0108	3.6E-3	5.17E-2
+MODULE_179	468	Blood cells and cancer expression cancer.	5	0.0107	3.77E-3	5.21E-2
+MODULE_37	471	Genes in the cancer module 37.	5	0.0106	3.87E-3	5.21E-2
+MODULE_158	43	DNA replication.	2	0.0465	4.06E-3	5.3E-2
+MODULE_125	44	Genes in the cancer module 125.	2	0.0455	4.25E-3	5.39E-2
+MODULE_72	308	Testis genes.	4	0.0130	4.81E-3	5.93E-2
+MODULE_16	508	Genes in the cancer module 15.	5	0.0098	5.31E-3	6.24E-2
+MODULE_61	50	Genes in the cancer module 61.	2	0.0400	5.45E-3	6.24E-2
+MODULE_83	320	Genes in the cancer module 83.	4	0.0125	5.5E-3	6.24E-2
+MODULE_69	526	Genes in the cancer module 69.	5	0.0095	6.14E-3	6.78E-2
+MODULE_277	55	Genes in the cancer module 277.	2	0.0364	6.57E-3	7.07E-2
+MODULE_164	61	Enzyme inhibitors (esp serine proteases).	2	0.0328	8.02E-3	8.43E-2
+MODULE_12	360	Spinal cord (neuro-development) genes.	4	0.0111	8.27E-3	8.48E-2
+MODULE_331	75	Genes in the cancer module 331.	2	0.0267	1.19E-2	1.2E-1
+MODULE_532	407	Blood cells and cancer expression clusters.	4	0.0098	1.25E-2	1.23E-1
+MODULE_6	413	Trachea genes.	4	0.0097	1.32E-2	1.26E-1
+MODULE_47	225	ECM and collagens.	3	0.0133	1.35E-2	1.27E-1
+MODULE_459	431	Genes in the cancer module 459.	4	0.0093	1.52E-2	1.39E-1
+MODULE_378	435	Genes in the cancer module 378.	4	0.0092	1.56E-2	1.4E-1
+MODULE_317	440	Genes in the cancer module 317.	4	0.0091	1.62E-2	1.43E-1
+MODULE_123	247	Genes in the cancer module 123.	3	0.0121	1.73E-2	1.48E-1
+MODULE_255	450	Genes in the cancer module 255.	4	0.0089	1.75E-2	1.48E-1
+MODULE_97	98	Genes in the cancer module 97.	2	0.0204	1.98E-2	1.64E-1
+MODULE_182	100	Genes in the cancer module 182.	2	0.0200	2.05E-2	1.67E-1
+MODULE_84	546	Immune (humoral) and inflammatory response.	4	0.0073	3.25E-2	2.59E-1
+MODULE_324	133	Metal / Ca ion binding.	2	0.0150	3.48E-2	2.72E-1
+MODULE_188	139	Genes in the cancer module 188.	2	0.0144	3.77E-2	2.9E-1
+MODULE_45	581	Whole blood genes.	4	0.0069	3.93E-2	2.97E-1
+MODULE_206	153	Genes in the cancer module 206.	2	0.0131	4.48E-2	3.33E-1
+MODULE_93	182	Oxidoreductases.	2	0.0110	6.09E-2	4.39E-1
+MODULE_118	408	cell line expressed genes.	3	0.0074	6.11E-2	4.39E-1
+MODULE_54	262	Cell cycle (expression cluster).	2	0.0076	1.13E-1	8E-1
+
+

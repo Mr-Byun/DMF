@@ -1,0 +1,14 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+EIF4E_DN	100	Genes down-regulated in HMEC cells (primary mammary epithelium) upon over-expression of EIF4E [Gene ID=1977] gene.	2	0.0200	2.56E-3	2.3E-1
+RB_P107_DN.V1_UP	130	Genes up-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	2	0.0154	4.28E-3	2.3E-1
+ESC_V6.5_UP_EARLY.V1_DN	161	Genes down-regulated during early stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	2	0.0124	6.48E-3	2.3E-1
+GCNP_SHH_UP_LATE.V1_UP	181	Genes up-regulated in granule cell neuron precursors (GCNPs) after stimulation with Shh for 24h.	2	0.0110	8.12E-3	2.3E-1
+ESC_J1_UP_LATE.V1_UP	185	Genes up-regulated during late stages of differentiation of embryoid bodies from J1 embryonic stem cells.	2	0.0108	8.47E-3	2.3E-1
+RPS14_DN.V1_DN	186	Genes down-regulated in CD34+ hematopoietic progenitor cells after knockdown of RPS14 [Gene ID=6208] by RNAi.	2	0.0108	8.56E-3	2.3E-1
+LTE2_UP.V1_DN	195	Genes down-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] MCF-7 cells (breast cancer) and long-term adapted for estrogen-independent growth.	2	0.0103	9.37E-3	2.3E-1
+CAMP_UP.V1_DN	199	Genes down-regulated in primary thyrocyte cultures in response to cAMP signaling pathway activation by thyrotropin (TSH).	2	0.0101	9.74E-3	2.3E-1
+STK33_SKM_DN	275	Genes down-regulated in SKM-1 cells (AML) after knockdown of STK33 [Gene ID=65975] by RNAi.	2	0.0073	1.8E-2	3.2E-1
+STK33_DN	279	Genes down-regulated in NOMO-1 and SKM-1 cells (AML) after knockdown of STK33 [Gene ID=65975] by RNAi.	2	0.0072	1.85E-2	3.2E-1
+STK33_NOMO_DN	280	Genes down-regulated in NOMO-1 cells (AML) after knockdown of STK33 [Gene ID=65975] by RNAi.	2	0.0071	1.86E-2	3.2E-1
+
+
