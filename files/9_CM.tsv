@@ -1,0 +1,13 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_202	28	Genes in the cancer module 202.	2	0.0714	4.26E-5	9.08E-3
+MODULE_524	30	Actin cytoskeleton binding.	2	0.0667	4.9E-5	9.08E-3
+MODULE_419	34	Genes in the cancer module 419.	2	0.0588	6.32E-5	9.08E-3
+MODULE_72	308	Testis genes.	2	0.0065	5.04E-3	4.6E-1
+MODULE_1	368	Ovary genes.	2	0.0054	7.12E-3	4.6E-1
+MODULE_2	384	DRG (dorsal root ganglia) genes.	2	0.0052	7.72E-3	4.6E-1
+MODULE_3	384	Genes in the cancer module 3.	2	0.0052	7.72E-3	4.6E-1
+MODULE_118	408	cell line expressed genes.	2	0.0049	8.68E-3	4.6E-1
+MODULE_52	430	Cell line expressed genes.	2	0.0047	9.6E-3	4.6E-1
+MODULE_45	581	Whole blood genes.	2	0.0034	1.7E-2	7.33E-1
+
+

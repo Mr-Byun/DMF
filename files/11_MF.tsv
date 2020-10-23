@@ -1,0 +1,74 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	38	0.0192	1.15E-30	1.95E-27
+GO_CYTOSKELETAL_PROTEIN_BINDING	979	Interacting selectively and non-covalently with any protein component of any cytoskeleton (actin, microtubule, or intermediate filament cytoskeleton). [GOC:mah]	21	0.0215	2.71E-17	2.3E-14
+GO_PROTEIN_CONTAINING_COMPLEX_BINDING	1258	Interacting selectively and non-covalently with a macromolecular complex. [GOC:jl]	20	0.0159	4.94E-14	2.79E-11
+GO_CADHERIN_BINDING	332	Interacting selectively and non-covalently with cadherin, a type I membrane protein involved in cell adhesion. [GOC:bf]	12	0.0361	8.45E-13	3.58E-10
+GO_ACTIN_BINDING	437	Interacting selectively and non-covalently with monomeric or multimeric forms of actin, including actin filaments. [GOC:clt]	12	0.0275	2.07E-11	7.04E-9
+GO_ACTIN_FILAMENT_BINDING	206	Interacting selectively and non-covalently with an actin filament, also known as F-actin, a helical filamentous polymer of globular G-actin subunits. [ISBN:0198506732]	9	0.0437	1.35E-10	3.83E-8
+GO_CELL_ADHESION_MOLECULE_BINDING	544	Interacting selectively and non-covalently with a cell adhesion molecule. [GOC:ai]	12	0.0221	2.55E-10	6.18E-8
+GO_HYDROLASE_ACTIVITY_ACTING_ON_ACID_ANHYDRIDES	857	Catalysis of the hydrolysis of any acid anhydride. [GOC:jl]	13	0.0152	3.97E-9	8.42E-7
+GO_IDENTICAL_PROTEIN_BINDING	1926	Interacting selectively and non-covalently with an identical protein or proteins. [GOC:jl]	18	0.0093	5.99E-9	1.13E-6
+GO_RIBONUCLEOTIDE_BINDING	1899	Interacting selectively and non-covalently with a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety. [GOC:mah]	17	0.0090	3.23E-8	5.48E-6
+GO_ATPASE_ACTIVITY	423	Catalysis of the reaction: ATP + H2O = ADP + phosphate + 2 H+. May or may not be coupled to another reaction. [EC:3.6.1.3, GOC:jl]	9	0.0213	7.07E-8	1.09E-5
+GO_ACTIN_DEPENDENT_ATPASE_ACTIVITY	24	Catalysis of the reaction: ATP + H2O = ADP + phosphate. This reaction requires the presence of an actin filament to accelerate release of ADP and phosphate. [GOC:mah]	4	0.1667	9.91E-8	1.4E-5
+GO_MOTOR_ACTIVITY	132	Catalysis of the generation of force resulting either in movement along a microfilament or microtubule, or in torque resulting in membrane scission, coupled to the hydrolysis of a nucleoside triphosphate. [GOC:mah, GOC:vw, ISBN:0815316194, PMID:11242086]	6	0.0455	1.49E-7	1.94E-5
+GO_MICROFILAMENT_MOTOR_ACTIVITY	29	Catalysis of movement along a microfilament, coupled to the hydrolysis of a nucleoside triphosphate (usually ATP). [GOC:mah, ISBN:0815316194]	4	0.1379	2.2E-7	2.67E-5
+GO_ADENYL_NUCLEOTIDE_BINDING	1546	Interacting selectively and non-covalently with adenyl nucleotides, any compound consisting of adenosine esterified with (ortho)phosphate. [ISBN:0198506732]	14	0.0091	5.61E-7	6.34E-5
+GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	655	Interacting selectively and non-covalently with an identical protein to form a homodimer. [GOC:jl]	9	0.0137	2.68E-6	2.85E-4
+GO_TUBULIN_BINDING	365	Interacting selectively and non-covalently with monomeric or multimeric forms of tubulin, including microtubules. [GOC:clt]	7	0.0192	4.35E-6	4.34E-4
+GO_RAC_GTPASE_BINDING	73	Interacting selectively and non-covalently with Rac protein, any member of the Rac subfamily of the Ras superfamily of monomeric GTPases. [GOC:ebc, PMID:11702775]	4	0.0548	9.49E-6	8.95E-4
+GO_PROTEIN_DIMERIZATION_ACTIVITY	1023	The formation of a protein dimer, a macromolecular structure consists of two noncovalently associated identical or nonidentical subunits. [ISBN:0198506732]	10	0.0098	1.44E-5	1.29E-3
+GO_SNORNA_BINDING	32	Interacting selectively and non-covalently with small nucleolar RNA. [GOC:mah]	3	0.0938	2.66E-5	2.25E-3
+GO_ADP_BINDING	38	Interacting selectively and non-covalently with ADP, adenosine 5'-diphosphate. [GOC:jl]	3	0.0789	4.48E-5	3.62E-3
+GO_PHOSPHOLIPASE_A2_INHIBITOR_ACTIVITY	6	Stops, prevents or reduces the activity of the enzyme phospholipase A2. [GOC:ai]	2	0.3333	4.75E-5	3.67E-3
+GO_GTPASE_BINDING	547	Interacting selectively and non-covalently with a GTPase, any enzyme that catalyzes the hydrolysis of GTP. [GOC:ai]	7	0.0128	5.82E-5	4.29E-3
+GO_MICROTUBULE_BINDING	265	Interacting selectively and non-covalently with microtubules, filaments composed of tubulin monomers. [GOC:krc]	5	0.0189	1.19E-4	8.28E-3
+GO_SMALL_GTPASE_BINDING	427	Interacting selectively and non-covalently with a small monomeric GTPase. [GOC:mah]	6	0.0141	1.22E-4	8.28E-3
+GO_RHO_GTPASE_BINDING	162	Interacting selectively and non-covalently with Rho protein, any member of the Rho subfamily of the Ras superfamily of monomeric GTPases. Proteins in the Rho subfamily are involved in relaying signals from cell-surface receptors to the actin cytoskeleton. [ISBN:0198547684, PMID:12581856]	4	0.0247	2.14E-4	1.4E-2
+GO_ANNEALING_ACTIVITY	13	A nucleic acid binding activity that brings together complementary sequences of nucleic acids so that they pair by hydrogen bonds to form a double-stranded polynucleotide. [GOC:mba, Wikipedia:Nucleic_acid_thermodynamicsAnnealing]	2	0.1538	2.45E-4	1.43E-2
+GO_PHOSPHOLIPASE_INHIBITOR_ACTIVITY	13	Stops, prevents or reduces the activity of a phospholipase, an enzyme that catalyzes of the hydrolysis of a phospholipid. [GOC:ai, GOC:rl]	2	0.1538	2.45E-4	1.43E-2
+GO_RNA_STEM_LOOP_BINDING	13	Interacting selectively and non-covalently with a stem-loop in an RNA molecule. An RNA stem-loop is a secondary RNA structure consisting of a double-stranded RNA (dsRNA) stem and a terminal loop. [GOC:sart, PMID:16568238, PMID:20455544]	2	0.1538	2.45E-4	1.43E-2
+GO_STRUCTURAL_MOLECULE_ACTIVITY	709	The action of a molecule that contributes to the structural integrity of a complex or its assembly within or outside a cell. [GOC:mah, GOC:vw]	7	0.0099	2.87E-4	1.62E-2
+GO_PROTEIN_DOMAIN_SPECIFIC_BINDING	714	Interacting selectively and non-covalently with a specific domain of a protein. [GOC:go_curators]	7	0.0098	2.99E-4	1.64E-2
+GO_SMAD_BINDING	79	Interacting selectively and non-covalently with a SMAD signaling protein. [GOC:ai]	3	0.0380	3.99E-4	2.1E-2
+GO_KINASE_BINDING	752	Interacting selectively and non-covalently with a kinase, any enzyme that catalyzes the transfer of a phosphate group. [GOC:jl]	7	0.0093	4.08E-4	2.1E-2
+GO_CALMODULIN_BINDING	200	Interacting selectively and non-covalently with calmodulin, a calcium-binding protein with many roles, both in the calcium-bound and calcium-free states. [GOC:krc]	4	0.0200	4.75E-4	2.25E-2
+GO_CADHERIN_BINDING_INVOLVED_IN_CELL_CELL_ADHESION	18	Any cadherin binding that occurs as part of the process of cell-cell adhesion. [GOC:dos]	2	0.1111	4.78E-4	2.25E-2
+GO_LIPASE_INHIBITOR_ACTIVITY	18	Stops, prevents or reduces the activity of a lipase, an enzyme that catalyzes of the hydrolysis of a lipid. [GOC:BHF, GOC:rl]	2	0.1111	4.78E-4	2.25E-2
+GO_CATALYTIC_ACTIVITY_ACTING_ON_RNA	385	Catalytic activity that acts to modify RNA. [GOC:molecular_function_refactoring, GOC:pdt]	5	0.0130	6.58E-4	3.02E-2
+GO_TRANSCRIPTION_FACTOR_BINDING	642	Interacting selectively and non-covalently with a transcription factor, a protein required to initiate or regulate transcription. [ISBN:0198506732]	6	0.0093	1.05E-3	4.71E-2
+GO_UBIQUITIN_LIKE_PROTEIN_TRANSFERASE_ACTIVITY	457	Catalysis of the transfer of a ubiquitin-like from one protein to another via the reaction X-ULP + Y --> Y-ULP + X, where both X-ULP and Y-ULP are covalent linkages. ULP represents a ubiquitin-like protein. [GOC:mah, GOC:rn, PMID:10806345, PMID:10884686]	5	0.0109	1.41E-3	6.14E-2
+GO_UBIQUITIN_LIKE_PROTEIN_LIGASE_BINDING	316	Interacting selectively and non-covalently with a ubiquitin-like protein ligase, such as ubiquitin-ligase. [GOC:jl]	4	0.0127	2.56E-3	1.09E-1
+GO_HELICASE_ACTIVITY	160	Catalysis of the reaction: ATP + H2O = ADP + phosphate, to drive the unwinding of a DNA or RNA helix. [GOC:jl]	3	0.0187	3.05E-3	1.26E-1
+GO_CALCIUM_DEPENDENT_PHOSPHOLIPID_BINDING	54	Interacting selectively and non-covalently with phospholipids, a class of lipids containing phosphoric acid as a mono- or diester, in the presence of calcium. [GOC:jl]	2	0.0370	4.29E-3	1.68E-1
+GO_CHROMATIN_BINDING	596	Interacting selectively and non-covalently with chromatin, the network of fibers of DNA, protein, and sometimes RNA, that make up the chromosomes of the eukaryotic nucleus during interphase. [GOC:jl, ISBN:0198506732, PMID:20404130]	5	0.0084	4.42E-3	1.68E-1
+GO_NAD_BINDING	55	Interacting selectively and non-covalently with nicotinamide adenine dinucleotide, a coenzyme involved in many redox and biosynthetic reactions; binding may be to either the oxidized form, NAD+, or the reduced form, NADH. [GOC:ai]	2	0.0364	4.45E-3	1.68E-1
+GO_VITAMIN_B6_BINDING	55	Interacting selectively and non-covalently with any of the vitamin B6 compounds: pyridoxal, pyridoxamine and pyridoxine and the active form, pyridoxal phosphate. [GOC:mah]	2	0.0364	4.45E-3	1.68E-1
+GO_CELL_ADHESION_MEDIATOR_ACTIVITY	60	The binding by a cell-adhesion protein on a cell surface to an adhesion molecule on another cell surface, to mediate adhesion of the cell to the external substrate or to another cell. [GOC:vw, Wikipedia:Cell_adhesion]	2	0.0333	5.27E-3	1.94E-1
+GO_CATALYTIC_ACTIVITY_ACTING_ON_DNA	204	Catalytic activity that acts to modify DNA. [GOC:molecular_function_refactoring, GOC:pdt]	3	0.0147	5.99E-3	2.16E-1
+GO_NUCLEOSOME_BINDING	70	Interacting selectively and non-covalently with a nucleosome, a complex comprised of DNA wound around a multisubunit core and associated proteins, which forms the primary packing unit of DNA into higher order structures. [GOC:mah]	2	0.0286	7.11E-3	2.51E-1
+GO_DOUBLE_STRANDED_RNA_BINDING	76	Interacting selectively and non-covalently with double-stranded RNA. [GOC:jl]	2	0.0263	8.33E-3	2.84E-1
+GO_MICROTUBULE_MOTOR_ACTIVITY	77	Catalysis of movement along a microtubule, coupled to the hydrolysis of a nucleoside triphosphate (usually ATP). [GOC:mah, ISBN:0815316194]	2	0.0260	8.54E-3	2.84E-1
+GO_RNA_HELICASE_ACTIVITY	77	Catalysis of the reaction: ATP + H2O = ADP + phosphate; this reaction drives the unwinding of an RNA helix. [EC:3.6.4.13, GOC:jl]	2	0.0260	8.54E-3	2.84E-1
+GO_PHOSPHOLIPID_BINDING	454	Interacting selectively and non-covalently with phospholipids, a class of lipids containing phosphoric acid as a mono- or diester. [ISBN:0198506732]	4	0.0088	9.13E-3	2.92E-1
+GO_HISTONE_BINDING	238	Interacting selectively and non-covalently with a histone, any of a group of water-soluble proteins found in association with the DNA of eukaroytic chromosomes. They are involved in the condensation and coiling of chromosomes during cell division and have also been implicated in nonspecific suppression of gene activity. [GOC:jl]	3	0.0126	9.13E-3	2.92E-1
+GO_CALCIUM_DEPENDENT_PROTEIN_BINDING	82	Interacting selectively and non-covalently with any protein or protein complex (a complex of two or more proteins that may include other nonprotein molecules), in the presence of calcium. [GOC:jid, PMID:10485905]	2	0.0244	9.64E-3	3.03E-1
+GO_SINGLE_STRANDED_RNA_BINDING	90	Interacting selectively and non-covalently with single-stranded RNA. [GOC:jl]	2	0.0222	1.15E-2	3.55E-1
+GO_ENZYME_REGULATOR_ACTIVITY	1059	Binds to and modulates the activity of an enzyme. [GOC:dph, GOC:mah, GOC:tb]	6	0.0057	1.2E-2	3.63E-1
+GO_STRUCTURAL_CONSTITUENT_OF_CYTOSKELETON	104	The action of a molecule that contributes to the structural integrity of a cytoskeletal structure. [GOC:mah]	2	0.0192	1.52E-2	4.51E-1
+GO_ACETYLTRANSFERASE_ACTIVITY	105	Catalysis of the transfer of an acetyl group to an acceptor molecule. [GOC:ai]	2	0.0190	1.54E-2	4.51E-1
+GO_G_PROTEIN_COUPLED_RECEPTOR_BINDING	292	Interacting selectively and non-covalently with a G protein-coupled receptor. [GOC:ceb, GOC:dph]	3	0.0103	1.58E-2	4.54E-1
+GO_UBIQUITIN_LIKE_PROTEIN_LIGASE_ACTIVITY	301	Catalysis of the transfer of a ubiquitin-like protein (ULP) to a substrate protein via the reaction X-ULP + S --> X + S-ULP, where X is either an E2 or E3 enzyme, the X-ULP linkage is a thioester bond, and the S-ULP linkage is an isopeptide bond between the C-terminal glycine of ULP and the epsilon-amino group of lysine residues in the substrate. [GOC:dph]	3	0.0100	1.71E-2	4.84E-1
+GO_RIBONUCLEASE_ACTIVITY	113	Catalysis of the hydrolysis of phosphodiester bonds in chains of RNA. [GOC:mah, ISBN:0198547684]	2	0.0177	1.77E-2	4.93E-1
+GO_SINGLE_STRANDED_DNA_BINDING	114	Interacting selectively and non-covalently with single-stranded DNA. [GOC:elh, GOC:vw, PMID:22976174]	2	0.0175	1.8E-2	4.93E-1
+GO_MRNA_BINDING	574	Interacting selectively and non-covalently with messenger RNA (mRNA), an intermediate molecule between DNA and protein. mRNA includes UTR and coding sequences, but does not contain introns. [GOC:kmv, GOC:pr, SO:0000234]	4	0.0070	1.99E-2	5.37E-1
+GO_GTPASE_ACTIVITY	326	Catalysis of the reaction: GTP + H2O = GDP + phosphate. [ISBN:0198547684, PMID:26832457, PMID:27218782]	3	0.0092	2.11E-2	5.58E-1
+GO_HEAT_SHOCK_PROTEIN_BINDING	127	Interacting selectively and non-covalently with a heat shock protein, any protein synthesized or activated in response to heat shock. [GOC:mah, GOC:vw]	2	0.0157	2.2E-2	5.76E-1
+GO_RIBONUCLEOPROTEIN_COMPLEX_BINDING	133	Interacting selectively and non-covalently with any complex of RNA and protein. [GOC:bf, GOC:go_curators, GOC:vk]	2	0.0150	2.4E-2	6.18E-1
+GO_TRANSLATION_REGULATOR_ACTIVITY	139	Any molecular function involved in the initiation, activation, perpetuation, repression or termination of polypeptide synthesis at the ribosome. [GOC:ai]	2	0.0144	2.61E-2	6.6E-1
+GO_VITAMIN_BINDING	144	Interacting selectively and non-covalently with a vitamin, one of a number of unrelated organic substances that occur in many foods in small amounts and that are necessary in trace amounts for the normal metabolic functioning of the body. [GOC:ai]	2	0.0139	2.78E-2	6.94E-1
+GO_ENZYME_INHIBITOR_ACTIVITY	381	Binds to and stops, prevents or reduces the activity of an enzyme. [GOC:ai, GOC:ebc]	3	0.0079	3.14E-2	7.73E-1
+GO_GUANYL_NUCLEOTIDE_BINDING	397	Interacting selectively and non-covalently with guanyl nucleotides, any compound consisting of guanosine esterified with (ortho)phosphate. [ISBN:0198506732]	3	0.0076	3.48E-2	8.45E-1
+GO_LIGASE_ACTIVITY	165	Catalysis of the joining of two molecules, or two groups within a single molecule, using the energy from the hydrolysis of ATP, a similar triphosphate, or a pH gradient. [EC:6, GOC:mah]	2	0.0121	3.57E-2	8.53E-1
+
+

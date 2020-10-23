@@ -1,0 +1,7 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+REACTOME_RHO_GTPASES_ACTIVATE_PAKS	21	RHO GTPases activate PAKs	2	0.0952	2.37E-5	3.48E-2
+REACTOME_INTERFERON_SIGNALING	203	Interferon Signaling	3	0.0148	4.47E-5	3.48E-2
+REACTOME_CYTOKINE_SIGNALING_IN_IMMUNE_SYSTEM	884	Cytokine Signaling in Immune system	4	0.0045	1.97E-4	1.02E-1
+REACTOME_ANTIVIRAL_MECHANISM_BY_IFN_STIMULATED_GENES	82	Antiviral mechanism by IFN-stimulated genes	2	0.0244	3.7E-4	1.44E-1
+
+

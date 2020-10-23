@@ -1,0 +1,8 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_29	28	Genes in the cancer module 29.	2	0.0714	2.11E-5	7.36E-3
+MODULE_151	318	Genes in the cancer module 151.	3	0.0094	5.7E-5	7.36E-3
+MODULE_83	320	Genes in the cancer module 83.	3	0.0094	5.81E-5	7.36E-3
+MODULE_114	338	Protein biosynthesis and ribosomes.	3	0.0089	6.83E-5	7.36E-3
+MODULE_321	112	Genes in the cancer module 321.	2	0.0179	3.43E-4	2.96E-2
+
+

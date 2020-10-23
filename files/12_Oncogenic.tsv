@@ -1,0 +1,24 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+RB_P107_DN.V1_DN	126	Genes down-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	4	0.0317	1.23E-4	2.32E-2
+SNF5_DN.V1_UP	173	Genes up-regulated in MEF cells (embryonic fibroblasts) with knockout of SNF5 [Gene ID=6598] gene.	4	0.0231	4.11E-4	3.88E-2
+EIF4E_DN	100	Genes down-regulated in HMEC cells (primary mammary epithelium) upon over-expression of EIF4E [Gene ID=1977] gene.	3	0.0300	1.08E-3	6.79E-2
+RB_P130_DN.V1_DN	134	Genes down-regulated in primary keratinocytes from RB1 and RBL2 [Gene ID=5925, 5934] skin specific knockout mice.	3	0.0224	2.49E-3	1.18E-1
+GCNP_SHH_UP_EARLY.V1_UP	171	Genes up-regulated in granule cell neuron precursors (GCNPs) after stimulation with Shh for 3h.	3	0.0175	4.93E-3	1.82E-1
+GCNP_SHH_UP_LATE.V1_UP	181	Genes up-regulated in granule cell neuron precursors (GCNPs) after stimulation with Shh for 24h.	3	0.0166	5.77E-3	1.82E-1
+PRC2_EED_UP.V1_DN	193	Genes down-regulated in TIG3 cells (fibroblasts) upon knockdown of EED [Gene ID=8726] gene.	3	0.0155	6.89E-3	1.86E-1
+SIRNA_EIF4GI_UP	95	Genes up-regulated in MCF10A cells vs knockdown of EIF4G1 [Gene ID=1981] gene by RNAi.	2	0.0211	1.56E-2	3.61E-1
+EIF4E_UP	100	Genes up-regulated in HMEC cells (primary mammary epithelium) upon over-expression of EIF4E [Gene ID=1977] gene.	2	0.0200	1.72E-2	3.61E-1
+CSR_EARLY_UP.V1_DN	126	Genes down-regulated in early serum response of CRL 2091 cells (foreskin fibroblasts).	2	0.0159	2.64E-2	4.99E-1
+CSR_EARLY_UP.V1_UP	153	Genes up-regulated in early serum response of CRL 2091 cells (foreskin fibroblasts).	2	0.0131	3.77E-2	5.33E-1
+MTOR_UP.V1_UP	169	Genes up-regulated by everolimus [PubChem = 6442177] in prostate tissue.	2	0.0118	4.51E-2	5.33E-1
+ATF2_UP.V1_DN	185	Genes down-regulated in myometrial cells over-expressing ATF2 [Gene ID=1386] gene.	2	0.0108	5.3E-2	5.33E-1
+E2F1_UP.V1_DN	185	Genes down-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	2	0.0108	5.3E-2	5.33E-1
+RPS14_DN.V1_DN	186	Genes down-regulated in CD34+ hematopoietic progenitor cells after knockdown of RPS14 [Gene ID=6208] by RNAi.	2	0.0108	5.35E-2	5.33E-1
+CYCLIN_D1_UP.V1_DN	190	Genes down-regulated in MCF-7 cells (breast cancer) over-expressing CCND1 [Gene ID=595] gene.	2	0.0105	5.56E-2	5.33E-1
+KRAS.DF.V1_DN	193	Genes down-regulated in epithelial lung cancer cell lines over-expressing an oncogenic form of KRAS [Gene ID=3845] gene.	2	0.0104	5.71E-2	5.33E-1
+VEGF_A_UP.V1_DN	193	Genes down-regulated in HUVEC cells (endothelium) by treatment with VEGFA [Gene ID=7422].	2	0.0104	5.71E-2	5.33E-1
+P53_DN.V1_UP	194	Genes up-regulated in NCI-60 panel of cell lines with mutated TP53 [Gene ID=7157].	2	0.0103	5.76E-2	5.33E-1
+MTOR_UP.N4.V1_UP	196	Genes up-regulated in CEM-C1 cells (T-CLL) in comparison of control vs rapamycin (sirolimus) [PubChem=6610346], an mTOR pathway inhibitor.	2	0.0102	5.87E-2	5.33E-1
+ERBB2_UP.V1_DN	197	Genes down-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] and engineered to express ligand-activatable ERBB2 [Gene ID=2064].	2	0.0102	5.92E-2	5.33E-1
+
+

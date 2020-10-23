@@ -1,0 +1,16 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	7	0.0035	1.77E-6	3E-3
+GO_CADHERIN_BINDING	332	Interacting selectively and non-covalently with cadherin, a type I membrane protein involved in cell adhesion. [GOC:bf]	4	0.0120	4.34E-6	3.68E-3
+GO_IDENTICAL_PROTEIN_BINDING	1926	Interacting selectively and non-covalently with an identical protein or proteins. [GOC:jl]	6	0.0031	2.63E-5	1.28E-2
+GO_CELL_ADHESION_MOLECULE_BINDING	544	Interacting selectively and non-covalently with a cell adhesion molecule. [GOC:ai]	4	0.0074	3.02E-5	1.28E-2
+GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	655	Interacting selectively and non-covalently with an identical protein to form a homodimer. [GOC:jl]	4	0.0061	6.22E-5	2.11E-2
+GO_PROTEIN_DIMERIZATION_ACTIVITY	1023	The formation of a protein dimer, a macromolecular structure consists of two noncovalently associated identical or nonidentical subunits. [ISBN:0198506732]	4	0.0039	3.45E-4	9.74E-2
+GO_ACTIN_BINDING	437	Interacting selectively and non-covalently with monomeric or multimeric forms of actin, including actin filaments. [GOC:clt]	3	0.0069	4.29E-4	1.04E-1
+GO_CALMODULIN_BINDING	200	Interacting selectively and non-covalently with calmodulin, a calcium-binding protein with many roles, both in the calcium-bound and calcium-free states. [GOC:krc]	2	0.0100	2.17E-3	4.33E-1
+GO_ACTIN_FILAMENT_BINDING	206	Interacting selectively and non-covalently with an actin filament, also known as F-actin, a helical filamentous polymer of globular G-actin subunits. [ISBN:0198506732]	2	0.0097	2.3E-3	4.33E-1
+GO_HYDROLASE_ACTIVITY_ACTING_ON_ACID_ANHYDRIDES	857	Catalysis of the hydrolysis of any acid anhydride. [GOC:jl]	3	0.0035	2.98E-3	5.05E-1
+GO_RIBONUCLEOTIDE_BINDING	1899	Interacting selectively and non-covalently with a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety. [GOC:mah]	4	0.0021	3.43E-3	5.09E-1
+GO_TRANSFERASE_ACTIVITY_TRANSFERRING_ACYL_GROUPS	259	Catalysis of the transfer of an acyl group from one compound (donor) to another (acceptor). [GOC:jl, ISBN:0198506732]	2	0.0077	3.6E-3	5.09E-1
+GO_CYTOSKELETAL_PROTEIN_BINDING	979	Interacting selectively and non-covalently with any protein component of any cytoskeleton (actin, microtubule, or intermediate filament cytoskeleton). [GOC:mah]	3	0.0031	4.33E-3	5.65E-1
+
+

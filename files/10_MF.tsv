@@ -1,0 +1,7 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_IDENTICAL_PROTEIN_BINDING	1926	Interacting selectively and non-covalently with an identical protein or proteins. [GOC:jl]	4	0.0021	8.85E-4	5.5E-1
+GO_STRUCTURAL_CONSTITUENT_OF_RIBOSOME	186	The action of a molecule that contributes to the structural integrity of the ribosome. [GOC:mah]	2	0.0108	9.41E-4	5.5E-1
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	4	0.0020	9.72E-4	5.5E-1
+GO_RNA_POLYMERASE_II_SPECIFIC_DNA_BINDING_TRANSCRIPTION_FACTOR_BINDING	267	Interacting selectively and non-covalently with a sequence-specific DNA binding RNA polymerase II transcription factor, any of the factors that interact selectively and non-covalently with a specific DNA sequence in order to modulate transcription. [GOC:dph, GOC:vw]	2	0.0075	1.92E-3	8.15E-1
+
+
