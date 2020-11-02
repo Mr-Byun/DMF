@@ -1,0 +1,22 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	11	0.0056	5.58E-9	9.47E-6
+GO_IDENTICAL_PROTEIN_BINDING	1926	Interacting selectively and non-covalently with an identical protein or proteins. [GOC:jl]	10	0.0052	6.78E-8	5.76E-5
+GO_CADHERIN_BINDING	332	Interacting selectively and non-covalently with cadherin, a type I membrane protein involved in cell adhesion. [GOC:bf]	5	0.0151	1.41E-6	8E-4
+GO_CELL_ADHESION_MOLECULE_BINDING	544	Interacting selectively and non-covalently with a cell adhesion molecule. [GOC:ai]	5	0.0092	1.55E-5	6.6E-3
+GO_PROTEIN_HOMODIMERIZATION_ACTIVITY	655	Interacting selectively and non-covalently with an identical protein to form a homodimer. [GOC:jl]	5	0.0076	3.78E-5	1.28E-2
+GO_RIBONUCLEOTIDE_BINDING	1899	Interacting selectively and non-covalently with a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety. [GOC:mah]	7	0.0037	9.01E-5	2.55E-2
+GO_ATPASE_ACTIVITY	423	Catalysis of the reaction: ATP + H2O = ADP + phosphate + 2 H+. May or may not be coupled to another reaction. [EC:3.6.1.3, GOC:jl]	4	0.0095	1.1E-4	2.67E-2
+GO_HYDROLASE_ACTIVITY_ACTING_ON_ACID_ANHYDRIDES	857	Catalysis of the hydrolysis of any acid anhydride. [GOC:jl]	5	0.0058	1.34E-4	2.84E-2
+GO_ADP_BINDING	38	Interacting selectively and non-covalently with ADP, adenosine 5'-diphosphate. [GOC:jl]	2	0.0526	2.39E-4	4.1E-2
+GO_ADENYL_NUCLEOTIDE_BINDING	1546	Interacting selectively and non-covalently with adenyl nucleotides, any compound consisting of adenosine esterified with (ortho)phosphate. [ISBN:0198506732]	6	0.0039	2.42E-4	4.1E-2
+GO_PROTEIN_DIMERIZATION_ACTIVITY	1023	The formation of a protein dimer, a macromolecular structure consists of two noncovalently associated identical or nonidentical subunits. [ISBN:0198506732]	5	0.0049	3.05E-4	4.7E-2
+GO_TRANSCRIPTION_FACTOR_BINDING	642	Interacting selectively and non-covalently with a transcription factor, a protein required to initiate or regulate transcription. [ISBN:0198506732]	4	0.0062	5.38E-4	7.6E-2
+GO_ACTIN_BINDING	437	Interacting selectively and non-covalently with monomeric or multimeric forms of actin, including actin filaments. [GOC:clt]	3	0.0069	2.2E-3	2.87E-1
+GO_STRUCTURAL_CONSTITUENT_OF_RIBOSOME	186	The action of a molecule that contributes to the structural integrity of the ribosome. [GOC:mah]	2	0.0108	5.53E-3	6.45E-1
+GO_PROTEIN_C_TERMINUS_BINDING	189	Interacting selectively and non-covalently with a protein C-terminus, the end of any peptide chain at which the 1-carboxyl function of a constituent amino acid is not attached in peptide linkage to another amino-acid residue. [ISBN:0198506732]	2	0.0106	5.7E-3	6.45E-1
+GO_CALMODULIN_BINDING	200	Interacting selectively and non-covalently with calmodulin, a calcium-binding protein with many roles, both in the calcium-bound and calcium-free states. [GOC:krc]	2	0.0100	6.36E-3	6.73E-1
+GO_ACTIN_FILAMENT_BINDING	206	Interacting selectively and non-covalently with an actin filament, also known as F-actin, a helical filamentous polymer of globular G-actin subunits. [ISBN:0198506732]	2	0.0097	6.74E-3	6.73E-1
+GO_TRANSFERASE_ACTIVITY_TRANSFERRING_ACYL_GROUPS	259	Catalysis of the transfer of an acyl group from one compound (donor) to another (acceptor). [GOC:jl, ISBN:0198506732]	2	0.0077	1.05E-2	9.86E-1
+GO_RNA_POLYMERASE_II_SPECIFIC_DNA_BINDING_TRANSCRIPTION_FACTOR_BINDING	267	Interacting selectively and non-covalently with a sequence-specific DNA binding RNA polymerase II transcription factor, any of the factors that interact selectively and non-covalently with a specific DNA sequence in order to modulate transcription. [GOC:dph, GOC:vw]	2	0.0075	1.11E-2	9.9E-1
+
+

@@ -1,0 +1,35 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_3	384	Genes in the cancer module 3.	7	0.0182	1.19E-7	5.14E-5
+MODULE_419	34	Genes in the cancer module 419.	3	0.0882	5.82E-6	1.25E-3
+MODULE_32	241	Genes in the cancer module 32.	4	0.0166	1.09E-4	1.56E-2
+MODULE_321	112	Genes in the cancer module 321.	3	0.0268	2.1E-4	2.26E-2
+MODULE_29	28	Genes in the cancer module 29.	2	0.0714	3.8E-4	3.13E-2
+MODULE_524	30	Actin cytoskeleton binding.	2	0.0667	4.36E-4	3.13E-2
+MODULE_2	384	DRG (dorsal root ganglia) genes.	4	0.0104	6.35E-4	3.91E-2
+MODULE_52	430	Cell line expressed genes.	4	0.0093	9.67E-4	4.79E-2
+MODULE_5	434	Lung genes.	4	0.0092	1E-3	4.79E-2
+MODULE_123	247	Genes in the cancer module 123.	3	0.0121	2.07E-3	8.94E-2
+MODULE_72	308	Testis genes.	3	0.0097	3.86E-3	1.35E-1
+MODULE_151	318	Genes in the cancer module 151.	3	0.0094	4.22E-3	1.35E-1
+MODULE_83	320	Genes in the cancer module 83.	3	0.0094	4.3E-3	1.35E-1
+MODULE_97	98	Genes in the cancer module 97.	2	0.0204	4.56E-3	1.35E-1
+MODULE_182	100	Genes in the cancer module 182.	2	0.0200	4.75E-3	1.35E-1
+MODULE_114	338	Protein biosynthesis and ribosomes.	3	0.0089	5E-3	1.35E-1
+MODULE_15	357	Genes in the cancer module 14.	3	0.0084	5.82E-3	1.48E-1
+MODULE_1	368	Ovary genes.	3	0.0082	6.33E-3	1.51E-1
+MODULE_6	413	Trachea genes.	3	0.0073	8.67E-3	1.97E-1
+MODULE_8	421	Genes in the cancer module 8.	3	0.0071	9.13E-3	1.97E-1
+MODULE_18	450	Genes in the cancer module 18.	3	0.0067	1.09E-2	2.24E-1
+MODULE_38	463	Placenta genes.	3	0.0065	1.18E-2	2.31E-1
+MODULE_126	183	Lymphoma and immune response expression clusters.	2	0.0109	1.51E-2	2.83E-1
+MODULE_244	187	Response to DNA damage.	2	0.0107	1.58E-2	2.83E-1
+MODULE_45	581	Whole blood genes.	3	0.0052	2.15E-2	3.7E-1
+MODULE_47	225	ECM and collagens.	2	0.0089	2.23E-2	3.7E-1
+MODULE_54	262	Cell cycle (expression cluster).	2	0.0076	2.95E-2	4.72E-1
+MODULE_220	333	Developmental processes.	2	0.0060	4.56E-2	7.03E-1
+MODULE_12	360	Spinal cord (neuro-development) genes.	2	0.0056	5.25E-2	7.8E-1
+MODULE_33	383	Immune / stress response genes.	2	0.0052	5.85E-2	8.41E-1
+MODULE_98	393	Genes in the cancer module 98.	2	0.0051	6.12E-2	8.51E-1
+MODULE_118	408	cell line expressed genes.	2	0.0049	6.54E-2	8.81E-1
+
+

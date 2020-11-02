@@ -1,0 +1,32 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_3	384	Genes in the cancer module 3.	5	0.0130	6.45E-6	2.4E-3
+MODULE_52	430	Cell line expressed genes.	5	0.0116	1.11E-5	2.4E-3
+MODULE_327	21	Genes in the cancer module 327.	2	0.0952	9.81E-5	1.22E-2
+MODULE_1	368	Ovary genes.	4	0.0109	1.2E-4	1.22E-2
+MODULE_2	384	DRG (dorsal root ganglia) genes.	4	0.0104	1.42E-4	1.22E-2
+MODULE_6	413	Trachea genes.	4	0.0097	1.87E-4	1.34E-2
+MODULE_5	434	Lung genes.	4	0.0092	2.26E-4	1.39E-2
+MODULE_105	200	Genes in the cancer module 105.	3	0.0150	3.66E-4	1.97E-2
+MODULE_72	308	Testis genes.	3	0.0097	1.28E-3	5.92E-2
+MODULE_235	81	AA and sulfur metabolism.	2	0.0247	1.47E-3	5.92E-2
+MODULE_40	82	Organic acid metabolism.	2	0.0244	1.51E-3	5.92E-2
+MODULE_15	357	Genes in the cancer module 14.	3	0.0084	1.95E-3	6.29E-2
+MODULE_12	360	Spinal cord (neuro-development) genes.	3	0.0083	1.99E-3	6.29E-2
+MODULE_17	364	Genes in the cancer module 17.	3	0.0082	2.06E-3	6.29E-2
+MODULE_43	99	Energy pathways.	2	0.0202	2.19E-3	6.29E-2
+MODULE_118	408	cell line expressed genes.	3	0.0074	2.84E-3	7.65E-2
+MODULE_23	562	Liver genes - metabolism and xenobiotics.	3	0.0053	6.93E-3	1.72E-1
+MODULE_93	182	Oxidoreductases.	2	0.0110	7.18E-3	1.72E-1
+MODULE_47	225	ECM and collagens.	2	0.0089	1.08E-2	2.44E-1
+MODULE_83	320	Genes in the cancer module 83.	2	0.0063	2.1E-2	4.42E-1
+MODULE_212	329	Catalytic activities / metabolism.	2	0.0061	2.21E-2	4.42E-1
+MODULE_220	333	Developmental processes.	2	0.0060	2.26E-2	4.42E-1
+MODULE_8	421	Genes in the cancer module 8.	2	0.0048	3.48E-2	6.52E-1
+MODULE_18	450	Genes in the cancer module 18.	2	0.0044	3.92E-2	6.85E-1
+MODULE_24	453	Fetal liver genes - metabolism and xenobiotics.	2	0.0044	3.97E-2	6.85E-1
+MODULE_38	463	Placenta genes.	2	0.0043	4.13E-2	6.85E-1
+MODULE_16	508	Genes in the cancer module 15.	2	0.0039	4.88E-2	7.79E-1
+MODULE_84	546	Immune (humoral) and inflammatory response.	2	0.0037	5.55E-2	8.54E-1
+MODULE_45	581	Whole blood genes.	2	0.0034	6.19E-2	9.2E-1
+
+

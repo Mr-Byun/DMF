@@ -1,0 +1,12 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+E2F1_UP.V1_DN	185	Genes down-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	3	0.0162	2.91E-4	5.51E-2
+RB_P107_DN.V1_UP	130	Genes up-regulated in primary keratinocytes from RB1 and RBL1 [Gene ID=5925, 5933] skin specific knockout mice.	2	0.0154	3.74E-3	1.79E-1
+ESC_V6.5_UP_EARLY.V1_DN	161	Genes down-regulated during early stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	2	0.0124	5.66E-3	1.79E-1
+ESC_J1_UP_LATE.V1_DN	168	Genes down-regulated during late stages of differentiation of embryoid bodies from J1 embryonic stem cells.	2	0.0119	6.15E-3	1.79E-1
+SNF5_DN.V1_UP	173	Genes up-regulated in MEF cells (embryonic fibroblasts) with knockout of SNF5 [Gene ID=6598] gene.	2	0.0116	6.51E-3	1.79E-1
+ESC_V6.5_UP_LATE.V1_DN	179	Genes down-regulated during late stages of differentiation of embryoid bodies from V6.5 embryonic stem cells.	2	0.0112	6.95E-3	1.79E-1
+RPS14_DN.V1_DN	186	Genes down-regulated in CD34+ hematopoietic progenitor cells after knockdown of RPS14 [Gene ID=6208] by RNAi.	2	0.0108	7.48E-3	1.79E-1
+E2F1_UP.V1_UP	188	Genes up-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	2	0.0106	7.64E-3	1.79E-1
+CAMP_UP.V1_DN	199	Genes down-regulated in primary thyrocyte cultures in response to cAMP signaling pathway activation by thyrotropin (TSH).	2	0.0101	8.52E-3	1.79E-1
+
+

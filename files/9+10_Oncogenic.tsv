@@ -1,0 +1,7 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+CAMP_UP.V1_DN	199	Genes down-regulated in primary thyrocyte cultures in response to cAMP signaling pathway activation by thyrotropin (TSH).	3	0.0151	2.26E-4	4.27E-2
+RB_DN.V1_DN	123	Genes down-regulated in primary keratinocytes from RB1 [Gene ID=5925] skin specific knockout mice.	2	0.0163	2.47E-3	2.33E-1
+E2F1_UP.V1_DN	185	Genes down-regulated in mouse fibroblasts over-expressing E2F1 [Gene ID=1869] gene.	2	0.0108	5.47E-3	2.78E-1
+EGFR_UP.V1_UP	192	Genes up-regulated in MCF-7 cells (breast cancer) positive for ESR1 [Gene ID=2099] and engineered to express ligand-activatable EGFR [Gene ID=1956].	2	0.0104	5.88E-3	2.78E-1
+
+

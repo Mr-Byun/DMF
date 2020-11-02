@@ -1,0 +1,14 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_RNA_BINDING	1975	Interacting selectively and non-covalently with an RNA molecule or a portion thereof. [GOC:jl, GOC:mah]	9	0.0046	4.96E-6	8.41E-3
+GO_ENZYME_REGULATOR_ACTIVITY	1059	Binds to and modulates the activity of an enzyme. [GOC:dph, GOC:mah, GOC:tb]	6	0.0057	7.69E-5	6.52E-2
+GO_PEPTIDASE_ACTIVATOR_ACTIVITY	40	Binds to and increases the activity of a peptidase, any enzyme that catalyzes the hydrolysis peptide bonds. [GOC:ai]	2	0.0500	3.61E-4	1.99E-1
+GO_ENZYME_ACTIVATOR_ACTIVITY	526	Binds to and increases the activity of an enzyme. [GOC:dph, GOC:mah, GOC:tb]	4	0.0076	4.68E-4	1.99E-1
+GO_STRUCTURAL_MOLECULE_ACTIVITY	709	The action of a molecule that contributes to the structural integrity of a complex or its assembly within or outside a cell. [GOC:mah, GOC:vw]	4	0.0056	1.42E-3	3.84E-1
+GO_PROTEIN_DOMAIN_SPECIFIC_BINDING	714	Interacting selectively and non-covalently with a specific domain of a protein. [GOC:go_curators]	4	0.0056	1.46E-3	3.84E-1
+GO_CADHERIN_BINDING	332	Interacting selectively and non-covalently with cadherin, a type I membrane protein involved in cell adhesion. [GOC:bf]	3	0.0090	1.58E-3	3.84E-1
+GO_IDENTICAL_PROTEIN_BINDING	1926	Interacting selectively and non-covalently with an identical protein or proteins. [GOC:jl]	6	0.0031	1.85E-3	3.92E-1
+GO_TRANSCRIPTION_COREGULATOR_ACTIVITY	498	A protein or a member of a complex that interacts specifically and non-covalently with a DNA-bound DNA-binding transcription factor to either activate or repress the transcription of specific genes. Coregulators often act by altering chromatin structure and modifications. For example, one class of transcription coregulators modifies chromatin structure through covalent modification of histones. A second ATP-dependent class modifies the conformation of chromatin. A third class modulates interactions of DNA-binding transcription factor with other transcription coregulators. [GOC:txnOH-2018, PMID:10213677, PMID:16858867, PMID:24203923, PMID:25957681, Wikipedia:Transcription_coregulator]	3	0.0060	4.96E-3	8.99E-1
+GO_SIGNALING_RECEPTOR_BINDING	1654	Interacting selectively and non-covalently with one or more specific sites on a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function. [GOC:bf, GOC:ceb, ISBN:0198506732]	5	0.0030	5.3E-3	8.99E-1
+GO_CELL_ADHESION_MOLECULE_BINDING	544	Interacting selectively and non-covalently with a cell adhesion molecule. [GOC:ai]	3	0.0055	6.33E-3	9.77E-1
+
+

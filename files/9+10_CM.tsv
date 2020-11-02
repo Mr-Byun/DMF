@@ -1,0 +1,22 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+MODULE_202	28	Genes in the cancer module 202.	2	0.0714	1.29E-4	2.05E-2
+MODULE_29	28	Genes in the cancer module 29.	2	0.0714	1.29E-4	2.05E-2
+MODULE_524	30	Actin cytoskeleton binding.	2	0.0667	1.48E-4	2.05E-2
+MODULE_419	34	Genes in the cancer module 419.	2	0.0588	1.91E-4	2.05E-2
+MODULE_151	318	Genes in the cancer module 151.	3	0.0094	8.86E-4	6.48E-2
+MODULE_83	320	Genes in the cancer module 83.	3	0.0094	9.02E-4	6.48E-2
+MODULE_114	338	Protein biosynthesis and ribosomes.	3	0.0089	1.06E-3	6.5E-2
+MODULE_97	98	Genes in the cancer module 97.	2	0.0204	1.58E-3	7.86E-2
+MODULE_182	100	Genes in the cancer module 182.	2	0.0200	1.64E-3	7.86E-2
+MODULE_321	112	Genes in the cancer module 321.	2	0.0179	2.05E-3	8.85E-2
+MODULE_72	308	Testis genes.	2	0.0065	1.45E-2	5.7E-1
+MODULE_1	368	Ovary genes.	2	0.0054	2.03E-2	6.26E-1
+MODULE_33	383	Immune / stress response genes.	2	0.0052	2.19E-2	6.26E-1
+MODULE_2	384	DRG (dorsal root ganglia) genes.	2	0.0052	2.2E-2	6.26E-1
+MODULE_3	384	Genes in the cancer module 3.	2	0.0052	2.2E-2	6.26E-1
+MODULE_118	408	cell line expressed genes.	2	0.0049	2.46E-2	6.26E-1
+MODULE_6	413	Trachea genes.	2	0.0048	2.52E-2	6.26E-1
+MODULE_52	430	Cell line expressed genes.	2	0.0047	2.71E-2	6.26E-1
+MODULE_5	434	Lung genes.	2	0.0046	2.76E-2	6.26E-1
+
+
