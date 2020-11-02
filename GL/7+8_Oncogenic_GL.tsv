@@ -1,0 +1,43 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	GCNP_SHH_UP_LATE.V1_UP	CAMP_UP.V1_DN	EIF4E_DN	RB_P107_DN.V1_UP	ESC_V6.5_UP_EARLY.V1_DN	E2F1_UP.V1_DN	ESC_J1_UP_LATE.V1_UP	RPS14_DN.V1_DN	HOXA9_DN.V1_DN	EGFR_UP.V1_UP	VEGF_A_UP.V1_DN	LTE2_UP.V1_DN	STK33_SKM_DN	STK33_DN	STK33_NOMO_DN
+2634	GBP2	guanylate binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4183]	GCNP_SHH_UP_LATE.V1_UP				ESC_V6.5_UP_EARLY.V1_DN	E2F1_UP.V1_DN				EGFR_UP.V1_UP					
+10051	SMC4	structural maintenance of chromosomes 4 [Source:HGNC Symbol;Acc:HGNC:14013]	GCNP_SHH_UP_LATE.V1_UP										VEGF_A_UP.V1_DN				
+51574	LARP7	La ribonucleoprotein 7, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:24912]	GCNP_SHH_UP_LATE.V1_UP														
+4628	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]		CAMP_UP.V1_DN	EIF4E_DN					RPS14_DN.V1_DN							
+9590	AKAP12	A-kinase anchoring protein 12 [Source:HGNC Symbol;Acc:HGNC:370]		CAMP_UP.V1_DN								EGFR_UP.V1_UP					
+9208	LRRFIP1	LRR binding FLII interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:6702]		CAMP_UP.V1_DN									VEGF_A_UP.V1_DN				
+5903	RANBP2	RAN binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9848]			EIF4E_DN												
+5118	PCOLCE	procollagen C-endopeptidase enhancer [Source:HGNC Symbol;Acc:HGNC:8738]				RB_P107_DN.V1_UP	ESC_V6.5_UP_EARLY.V1_DN			RPS14_DN.V1_DN							
+1017	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]				RB_P107_DN.V1_UP											
+307	ANXA4	annexin A4 [Source:HGNC Symbol;Acc:HGNC:542]						E2F1_UP.V1_DN									
+8091	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]							ESC_J1_UP_LATE.V1_UP						STK33_SKM_DN		
+4646	MYO6	myosin VI [Source:HGNC Symbol;Acc:HGNC:7605]							ESC_J1_UP_LATE.V1_UP								
+2037	EPB41L2	erythrocyte membrane protein band 4.1 like 2 [Source:HGNC Symbol;Acc:HGNC:3379]									HOXA9_DN.V1_DN			LTE2_UP.V1_DN			
+6667	SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]									HOXA9_DN.V1_DN						
+7750	ZMYM2	zinc finger MYM-type containing 2 [Source:HGNC Symbol;Acc:HGNC:12989]												LTE2_UP.V1_DN			
+5074	PAWR	pro-apoptotic WT1 regulator [Source:HGNC Symbol;Acc:HGNC:8614]													STK33_SKM_DN	STK33_DN	STK33_NOMO_DN
+27143	PALD1	phosphatase domain containing paladin 1 [Source:HGNC Symbol;Acc:HGNC:23530]														STK33_DN	STK33_NOMO_DN
+4643	MYO1E	myosin IE [Source:HGNC Symbol;Acc:HGNC:7599]															
+29128	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]															
+2316	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]															
+10061	ABCF2	ATP binding cassette subfamily F member 2 [Source:HGNC Symbol;Acc:HGNC:71]															
+10985	GCN1	GCN1 activator of EIF2AK4 [Source:HGNC Symbol;Acc:HGNC:4199]															
+1399	CRKL	CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]															
+1939	EIF2D	eukaryotic translation initiation factor 2D [Source:HGNC Symbol;Acc:HGNC:6583]															
+2091	FBL	fibrillarin [Source:HGNC Symbol;Acc:HGNC:3599]															
+2314	FLII	FLII actin remodeling protein [Source:HGNC Symbol;Acc:HGNC:3750]															
+23191	CYFIP1	cytoplasmic FMR1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:13759]															
+23256	SCFD1	sec1 family domain containing 1 [Source:HGNC Symbol;Acc:HGNC:20726]															
+23464	GCAT	glycine C-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:4188]															
+27044	SND1	staphylococcal nuclease and tudor domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30646]															
+291	SLC25A4	solute carrier family 25 member 4 [Source:HGNC Symbol;Acc:HGNC:10990]															
+29894	CPSF1	cleavage and polyadenylation specific factor 1 [Source:HGNC Symbol;Acc:HGNC:2324]															
+445815	PALM2AKAP2	PALM2 and AKAP2 fusion [Source:HGNC Symbol;Acc:HGNC:33529]															
+55920	RCC2	regulator of chromosome condensation 2 [Source:HGNC Symbol;Acc:HGNC:30297]															
+6135	RPL11	ribosomal protein L11 [Source:HGNC Symbol;Acc:HGNC:10301]															
+6202	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]															
+6228	RPS23	ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:10410]															
+7167	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]															
+7332	UBE2L3	ubiquitin conjugating enzyme E2 L3 [Source:HGNC Symbol;Acc:HGNC:12488]															
+7874	USP7	ubiquitin specific peptidase 7 [Source:HGNC Symbol;Acc:HGNC:12630]															
+79902	NUP85	nucleoporin 85 [Source:HGNC Symbol;Acc:HGNC:8734]															
