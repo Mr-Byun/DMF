@@ -1,0 +1,5 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+KEGG_RIBOSOME	88	Ribosome	2	0.0227	2.12E-4	3.95E-2
+KEGG_HUNTINGTONS_DISEASE	182	Huntington's disease	2	0.0110	9.01E-4	8.38E-2
+
+

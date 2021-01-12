@@ -1,0 +1,6 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+KEGG_FOCAL_ADHESION	199	Focal adhesion	3	0.0151	4.22E-5	7.85E-3
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	3	0.0112	1.01E-4	9.38E-3
+KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	213	Regulation of actin cytoskeleton	2	0.0094	2.45E-3	1.52E-1
+
+

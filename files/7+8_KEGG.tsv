@@ -1,0 +1,10 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+KEGG_RIBOSOME	88	Ribosome	3	0.0341	1.03E-4	1.91E-2
+KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	213	Regulation of actin cytoskeleton	3	0.0141	1.36E-3	1.26E-1
+KEGG_PARKINSONS_DISEASE	130	Parkinson's disease	2	0.0154	7.88E-3	3.78E-1
+KEGG_TIGHT_JUNCTION	132	Tight junction	2	0.0152	8.12E-3	3.78E-1
+KEGG_HUNTINGTONS_DISEASE	182	Huntington's disease	2	0.0110	1.5E-2	5.49E-1
+KEGG_FOCAL_ADHESION	199	Focal adhesion	2	0.0101	1.77E-2	5.49E-1
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	2	0.0075	3.06E-2	8.13E-1
+
+

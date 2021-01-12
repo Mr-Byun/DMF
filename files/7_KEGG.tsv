@@ -1,0 +1,5 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	213	Regulation of actin cytoskeleton	3	0.0141	5.41E-4	1.01E-1
+KEGG_TIGHT_JUNCTION	132	Tight junction	2	0.0152	4.41E-3	4.1E-1
+
+

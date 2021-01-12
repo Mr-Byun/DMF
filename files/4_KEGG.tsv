@@ -1,0 +1,10 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+KEGG_ENDOCYTOSIS	181	Endocytosis	3	0.0166	4.89E-4	5.22E-2
+KEGG_AMINOACYL_TRNA_BIOSYNTHESIS	41	Aminoacyl-tRNA biosynthesis	2	0.0488	5.61E-4	5.22E-2
+KEGG_FC_GAMMA_R_MEDIATED_PHAGOCYTOSIS	96	Fc gamma R-mediated phagocytosis	2	0.0208	3.03E-3	1.88E-1
+KEGG_LYSOSOME	121	Lysosome	2	0.0165	4.76E-3	2.21E-1
+KEGG_CHEMOKINE_SIGNALING_PATHWAY	189	Chemokine signaling pathway	2	0.0106	1.12E-2	4.18E-1
+KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	213	Regulation of actin cytoskeleton	2	0.0094	1.41E-2	4.37E-1
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	2	0.0075	2.16E-2	5.73E-1
+
+

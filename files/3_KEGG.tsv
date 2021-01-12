@@ -1,0 +1,7 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+KEGG_CITRATE_CYCLE_TCA_CYCLE	31	Citrate cycle (TCA cycle)	2	0.0645	2.16E-4	3.36E-2
+KEGG_PYRUVATE_METABOLISM	40	Pyruvate metabolism	2	0.0500	3.61E-4	3.36E-2
+KEGG_ADIPOCYTOKINE_SIGNALING_PATHWAY	67	Adipocytokine signaling pathway	2	0.0299	1.01E-3	4.99E-2
+KEGG_PPAR_SIGNALING_PATHWAY	69	PPAR signaling pathway	2	0.0290	1.07E-3	4.99E-2
+
+

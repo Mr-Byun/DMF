@@ -1,0 +1,10 @@
+Gene Set Name	Genes in Gene Set (K)	Description	Genes in Overlap (k)	k/K	p-value	FDR q-value
+KEGG_OOCYTE_MEIOSIS	113	Oocyte meiosis	3	0.0265	5.72E-4	1.06E-1
+KEGG_GLYCOLYSIS_GLUCONEOGENESIS	62	Glycolysis / Gluconeogenesis	2	0.0323	3.56E-3	2.64E-1
+KEGG_EPITHELIAL_CELL_SIGNALING_IN_HELICOBACTER_PYLORI_INFECTION	68	Epithelial cell signaling in Helicobacter pylori infection	2	0.0294	4.26E-3	2.64E-1
+KEGG_CELL_CYCLE	125	Cell cycle	2	0.0160	1.38E-2	6.41E-1
+KEGG_ENDOCYTOSIS	181	Endocytosis	2	0.0110	2.75E-2	9.85E-1
+KEGG_FOCAL_ADHESION	199	Focal adhesion	2	0.0101	3.28E-2	9.85E-1
+KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	213	Regulation of actin cytoskeleton	2	0.0094	3.71E-2	9.85E-1
+
+
