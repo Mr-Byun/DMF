@@ -1,0 +1,74 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	KEGG_TIGHT_JUNCTION	KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	KEGG_OOCYTE_MEIOSIS	KEGG_THYROID_CANCER	KEGG_PATHWAYS_IN_CANCER	KEGG_FOCAL_ADHESION	KEGG_GLYCOLYSIS_GLUCONEOGENESIS	KEGG_VIRAL_MYOCARDITIS	KEGG_HYPERTROPHIC_CARDIOMYOPATHY_HCM	KEGG_RIBOSOME	KEGG_DILATED_CARDIOMYOPATHY	KEGG_MAPK_SIGNALING_PATHWAY	KEGG_UBIQUITIN_MEDIATED_PROTEOLYSIS	KEGG_INSULIN_SIGNALING_PATHWAY
+4627	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	KEGG_TIGHT_JUNCTION	KEGG_REGULATION_OF_ACTIN_CYTOSKELETON						KEGG_VIRAL_MYOCARDITIS						
+4628	MYH10	myosin heavy chain 10 [Source:HGNC Symbol;Acc:HGNC:7568]	KEGG_TIGHT_JUNCTION	KEGG_REGULATION_OF_ACTIN_CYTOSKELETON						KEGG_VIRAL_MYOCARDITIS						
+5518	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha [Source:HGNC Symbol;Acc:HGNC:9302]	KEGG_TIGHT_JUNCTION		KEGG_OOCYTE_MEIOSIS											
+2037	EPB41L2	erythrocyte membrane protein band 4.1 like 2 [Source:HGNC Symbol;Acc:HGNC:3379]	KEGG_TIGHT_JUNCTION													
+1399	CRKL	CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]		KEGG_REGULATION_OF_ACTIN_CYTOSKELETON			KEGG_PATHWAYS_IN_CANCER	KEGG_FOCAL_ADHESION						KEGG_MAPK_SIGNALING_PATHWAY		KEGG_INSULIN_SIGNALING_PATHWAY
+23191	CYFIP1	cytoplasmic FMR1 interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:13759]		KEGG_REGULATION_OF_ACTIN_CYTOSKELETON												
+1017	CDK2	cyclin dependent kinase 2 [Source:HGNC Symbol;Acc:HGNC:1771]			KEGG_OOCYTE_MEIOSIS		KEGG_PATHWAYS_IN_CANCER									
+9748	SLK	STE20 like kinase [Source:HGNC Symbol;Acc:HGNC:11088]			KEGG_OOCYTE_MEIOSIS											
+7170	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]				KEGG_THYROID_CANCER	KEGG_PATHWAYS_IN_CANCER				KEGG_HYPERTROPHIC_CARDIOMYOPATHY_HCM		KEGG_DILATED_CARDIOMYOPATHY			
+7175	TPR	translocated promoter region, nuclear basket protein [Source:HGNC Symbol;Acc:HGNC:12017]				KEGG_THYROID_CANCER	KEGG_PATHWAYS_IN_CANCER									
+2316	FLNA	filamin A [Source:HGNC Symbol;Acc:HGNC:3754]						KEGG_FOCAL_ADHESION						KEGG_MAPK_SIGNALING_PATHWAY		
+2317	FLNB	filamin B [Source:HGNC Symbol;Acc:HGNC:3755]						KEGG_FOCAL_ADHESION						KEGG_MAPK_SIGNALING_PATHWAY		
+2597	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]							KEGG_GLYCOLYSIS_GLUCONEOGENESIS							
+3939	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]							KEGG_GLYCOLYSIS_GLUCONEOGENESIS							
+4000	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]									KEGG_HYPERTROPHIC_CARDIOMYOPATHY_HCM		KEGG_DILATED_CARDIOMYOPATHY			
+6202	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]										KEGG_RIBOSOME				
+6224	RPS20	ribosomal protein S20 [Source:HGNC Symbol;Acc:HGNC:10405]										KEGG_RIBOSOME				
+7332	UBE2L3	ubiquitin conjugating enzyme E2 L3 [Source:HGNC Symbol;Acc:HGNC:12488]													KEGG_UBIQUITIN_MEDIATED_PROTEOLYSIS	
+10273	STUB1	STIP1 homology and U-box containing protein 1 [Source:HGNC Symbol;Acc:HGNC:11427]													KEGG_UBIQUITIN_MEDIATED_PROTEOLYSIS	
+5834	PYGB	glycogen phosphorylase B [Source:HGNC Symbol;Acc:HGNC:9723]														KEGG_INSULIN_SIGNALING_PATHWAY
+57187	THOC2	THO complex 2 [Source:HGNC Symbol;Acc:HGNC:19073]														
+10376	TUBA1B	tubulin alpha 1b [Source:HGNC Symbol;Acc:HGNC:18809]														
+22803	XRN2	5'-3' exoribonuclease 2 [Source:HGNC Symbol;Acc:HGNC:12836]														
+1975	EIF4B	eukaryotic translation initiation factor 4B [Source:HGNC Symbol;Acc:HGNC:3285]														
+3978	LIG1	DNA ligase 1 [Source:HGNC Symbol;Acc:HGNC:6598]														
+2058	EPRS1	glutamyl-prolyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:3418]														
+23464	GCAT	glycine C-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:4188]														
+9789	SPCS2	signal peptidase complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:28962]														
+6309	SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]														
+10112	KIF20A	kinesin family member 20A [Source:HGNC Symbol;Acc:HGNC:9787]														
+10528	NOP56	NOP56 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:15911]														
+10763	NES	nestin [Source:HGNC Symbol;Acc:HGNC:7756]														
+10970	CKAP4	cytoskeleton associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]														
+10989	IMMT	inner membrane mitochondrial protein [Source:HGNC Symbol;Acc:HGNC:6047]														
+221092	HNRNPUL2	heterogeneous nuclear ribonucleoprotein U like 2 [Source:HGNC Symbol;Acc:HGNC:25451]														
+23347	SMCHD1	structural maintenance of chromosomes flexible hinge domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29090]														
+23603	CORO1C	coronin 1C [Source:HGNC Symbol;Acc:HGNC:2254]														
+25932	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]														
+26145	IRF2BP1	interferon regulatory factor 2 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:21728]														
+2634	GBP2	guanylate binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4183]														
+29128	UHRF1	ubiquitin like with PHD and ring finger domains 1 [Source:HGNC Symbol;Acc:HGNC:12556]														
+301	ANXA1	annexin A1 [Source:HGNC Symbol;Acc:HGNC:533]														
+302	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]														
+3068	HDGF	heparin binding growth factor [Source:HGNC Symbol;Acc:HGNC:4856]														
+3831	KLC1	kinesin light chain 1 [Source:HGNC Symbol;Acc:HGNC:6387]														
+4134	MAP4	microtubule associated protein 4 [Source:HGNC Symbol;Acc:HGNC:6862]														
+4643	MYO1E	myosin IE [Source:HGNC Symbol;Acc:HGNC:7599]														
+4646	MYO6	myosin VI [Source:HGNC Symbol;Acc:HGNC:7605]														
+4678	NASP	nuclear autoantigenic sperm protein [Source:HGNC Symbol;Acc:HGNC:7644]														
+493856	CISD2	CDGSH iron sulfur domain 2 [Source:HGNC Symbol;Acc:HGNC:24212]														
+4976	OPA1	OPA1 mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]														
+51574	LARP7	La ribonucleoprotein 7, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:24912]														
+51602	NOP58	NOP58 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:29926]														
+5339	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]														
+54969	HPF1	histone PARylation factor 1 [Source:HGNC Symbol;Acc:HGNC:26051]														
+55651	NHP2	NHP2 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:14377]														
+55920	RCC2	regulator of chromosome condensation 2 [Source:HGNC Symbol;Acc:HGNC:30297]														
+57062	DDX24	DEAD-box helicase 24 [Source:HGNC Symbol;Acc:HGNC:13266]														
+5903	RANBP2	RAN binding protein 2 [Source:HGNC Symbol;Acc:HGNC:9848]														
+5976	UPF1	UPF1 RNA helicase and ATPase [Source:HGNC Symbol;Acc:HGNC:9962]														
+6238	RRBP1	ribosome binding protein 1 [Source:HGNC Symbol;Acc:HGNC:10448]														
+6294	SAFB	scaffold attachment factor B [Source:HGNC Symbol;Acc:HGNC:10520]														
+7112	TMPO	thymopoietin [Source:HGNC Symbol;Acc:HGNC:11875]														
+7247	TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]														
+7411	VBP1	VHL binding protein 1 [Source:HGNC Symbol;Acc:HGNC:12662]														
+7874	USP7	ubiquitin specific peptidase 7 [Source:HGNC Symbol;Acc:HGNC:12630]														
+80155	NAA15	N-alpha-acetyltransferase 15, NatA auxiliary subunit [Source:HGNC Symbol;Acc:HGNC:30782]														
+8091	HMGA2	high mobility group AT-hook 2 [Source:HGNC Symbol;Acc:HGNC:5009]														
+832	CAPZB	capping actin protein of muscle Z-line subunit beta [Source:HGNC Symbol;Acc:HGNC:1491]														
+8899	PRPF4B	pre-mRNA processing factor 4B [Source:HGNC Symbol;Acc:HGNC:17346]														
+92521	SPECC1	sperm antigen with calponin homology and coiled-coil domains 1 [Source:HGNC Symbol;Acc:HGNC:30615]														
+9360	PPIG	peptidylprolyl isomerase G [Source:HGNC Symbol;Acc:HGNC:14650]														

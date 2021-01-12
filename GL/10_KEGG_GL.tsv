@@ -1,0 +1,12 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	KEGG_RIBOSOME	KEGG_HUNTINGTONS_DISEASE
+6227	RPS21	ribosomal protein S21 [Source:HGNC Symbol;Acc:HGNC:10409]	KEGG_RIBOSOME	
+6228	RPS23	ribosomal protein S23 [Source:HGNC Symbol;Acc:HGNC:10410]	KEGG_RIBOSOME	
+291	SLC25A4	solute carrier family 25 member 4 [Source:HGNC Symbol;Acc:HGNC:10990]		KEGG_HUNTINGTONS_DISEASE
+6667	SP1	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]		KEGG_HUNTINGTONS_DISEASE
+10654	PMVK	phosphomevalonate kinase [Source:HGNC Symbol;Acc:HGNC:9141]		
+10694	CCT8	chaperonin containing TCP1 subunit 8 [Source:HGNC Symbol;Acc:HGNC:1623]		
+10970	CKAP4	cytoskeleton associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]		
+2098	ESD	esterase D [Source:HGNC Symbol;Acc:HGNC:3465]		
+307	ANXA4	annexin A4 [Source:HGNC Symbol;Acc:HGNC:542]		
+7415	VCP	valosin containing protein [Source:HGNC Symbol;Acc:HGNC:12666]		

@@ -1,0 +1,36 @@
+
+Entrez Gene Id	Gene Symbol	Gene Description	KEGG_ENDOCYTOSIS	KEGG_AMINOACYL_TRNA_BIOSYNTHESIS	KEGG_FC_GAMMA_R_MEDIATED_PHAGOCYTOSIS	KEGG_LYSOSOME	KEGG_CHEMOKINE_SIGNALING_PATHWAY	KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	KEGG_MAPK_SIGNALING_PATHWAY
+1213	CLTC	clathrin heavy chain [Source:HGNC Symbol;Acc:HGNC:2092]	KEGG_ENDOCYTOSIS			KEGG_LYSOSOME			
+56288	PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	KEGG_ENDOCYTOSIS				KEGG_CHEMOKINE_SIGNALING_PATHWAY		
+3312	HSPA8	heat shock protein family A (Hsp70) member 8 [Source:HGNC Symbol;Acc:HGNC:5241]	KEGG_ENDOCYTOSIS						KEGG_MAPK_SIGNALING_PATHWAY
+4141	MARS1	methionyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:6898]		KEGG_AMINOACYL_TRNA_BIOSYNTHESIS					
+833	CARS1	cysteinyl-tRNA synthetase 1 [Source:HGNC Symbol;Acc:HGNC:1493]		KEGG_AMINOACYL_TRNA_BIOSYNTHESIS					
+1399	CRKL	CRK like proto-oncogene, adaptor protein [Source:HGNC Symbol;Acc:HGNC:2363]			KEGG_FC_GAMMA_R_MEDIATED_PHAGOCYTOSIS		KEGG_CHEMOKINE_SIGNALING_PATHWAY	KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	KEGG_MAPK_SIGNALING_PATHWAY
+1073	CFL2	cofilin 2 [Source:HGNC Symbol;Acc:HGNC:1875]			KEGG_FC_GAMMA_R_MEDIATED_PHAGOCYTOSIS			KEGG_REGULATION_OF_ACTIN_CYTOSKELETON	
+9114	ATP6V0D1	ATPase H+ transporting V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]				KEGG_LYSOSOME			
+488	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:812]							
+129607	CMPK2	cytidine/uridine monophosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:27015]							
+10654	PMVK	phosphomevalonate kinase [Source:HGNC Symbol;Acc:HGNC:9141]							
+5223	PGAM1	phosphoglycerate mutase 1 [Source:HGNC Symbol;Acc:HGNC:8888]							
+23193	GANAB	glucosidase II alpha subunit [Source:HGNC Symbol;Acc:HGNC:4138]							
+8802	SUCLG1	succinate-CoA ligase GDP/ADP-forming subunit alpha [Source:HGNC Symbol;Acc:HGNC:11449]							
+125950	RAVER1	ribonucleoprotein, PTB binding 1 [Source:HGNC Symbol;Acc:HGNC:30296]							
+1314	COPA	COPI coat complex subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]							
+1809	DPYSL3	dihydropyrimidinase like 3 [Source:HGNC Symbol;Acc:HGNC:3015]							
+1915	EEF1A1	eukaryotic translation elongation factor 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:3189]							
+22821	RASA3	RAS p21 protein activator 3 [Source:HGNC Symbol;Acc:HGNC:20331]							
+25879	DCAF13	DDB1 and CUL4 associated factor 13 [Source:HGNC Symbol;Acc:HGNC:24535]							
+26130	GAPVD1	GTPase activating protein and VPS9 domains 1 [Source:HGNC Symbol;Acc:HGNC:23375]							
+2665	GDI2	GDP dissociation inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:4227]							
+4640	MYO1A	myosin IA [Source:HGNC Symbol;Acc:HGNC:7595]							
+51747	LUC7L3	LUC7 like 3 pre-mRNA splicing factor [Source:HGNC Symbol;Acc:HGNC:24309]							
+5339	PLEC	plectin [Source:HGNC Symbol;Acc:HGNC:9069]							
+55667	DENND4C	DENN domain containing 4C [Source:HGNC Symbol;Acc:HGNC:26079]							
+55737	VPS35	VPS35 retromer complex component [Source:HGNC Symbol;Acc:HGNC:13487]							
+6050	RNH1	ribonuclease/angiogenin inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:10074]							
+7265	TTC1	tetratricopeptide repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12391]							
+80014	WWC2	WW and C2 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24148]							
+80746	TSEN2	tRNA splicing endonuclease subunit 2 [Source:HGNC Symbol;Acc:HGNC:28422]							
+83786	FRMD8	FERM domain containing 8 [Source:HGNC Symbol;Acc:HGNC:25462]							
+84952	CGNL1	cingulin like 1 [Source:HGNC Symbol;Acc:HGNC:25931]							
+85456	TNKS1BP1	tankyrase 1 binding protein 1 [Source:HGNC Symbol;Acc:HGNC:19081]							
